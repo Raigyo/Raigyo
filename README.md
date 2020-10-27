@@ -11,7 +11,8 @@
 
 <h2 align="center">Welcome to my Github!</h2>
 
-Hi, i'm Vincent aka Raigyo. I'm a front-end developer. But I also develop in Unity.
+<p align='center'>Hi, i'm Vincent aka Raigyo. I'm a front-end developer.
+But I also develop in Unity.</p>
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
