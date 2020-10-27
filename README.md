@@ -21,7 +21,7 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below.</p>
 
-<img src="https://github.com/Raigyo/Raigyo/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<img src="https://github.com/Raigyo/Raigyo/blob/master/images/codeStats.svg" alt="stats waka"/>
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
