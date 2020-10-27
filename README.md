@@ -11,7 +11,7 @@
 
 <h2 align="center">Welcome to my Github!</h2>
 
-<p align='center'>Hi, i'm Vincent aka Raigyo. I'm a front-end developer.</p>
+<p align='center'>Hi, I'm Vincent aka Raigyo. I'm a front-end developer.</p>
 <p align='center'>I'm in the  deveopment since 2001 and I worked for more than 16 years in a web agency.
 <p align='center'>Recently I followed a boot camp training
 in web development at <a href="https://becode.org/">Becode</a>.</p>
