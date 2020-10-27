@@ -1,14 +1,20 @@
 ![logo](img_readme/logo.png)
 
+<p align="center">
+  <a href="https://raigyo-dev.be/" target="_blank">
+    <img src="img_readme/logo.png">
+  </a>
+</p>
 
 
-### Hi there 👋
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
--->
+### :cat: Welcome to my Github! :cat:
 
-![followers](https://img.shields.io/github/followers/Raigyo?label=Followers&style=social)
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Raigyo?label=Followers&style=social">
+</p>
 
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +29,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Stats:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
 
 Useful Links:
 
