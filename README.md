@@ -15,10 +15,11 @@
 <p align='center'>I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
 <p align='center'>Recently I followed a boot camp training
 in web development at <a href="https://becode.org/">Becode</a>.</p>
-<p align='center'>I also develop in Unity since I made a traineeship in a company that was involved in VR applications.</p>
-<p align='center'>To know more about my work and abilities, Visit my
+<p align='center'>I also develop in Unity since I made a traineeship in a company that was
+involved in VR applications.</p>
+<p align='center'>To know more about my work and abilities, please visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
-or check my github projects below.</p>
+or check my Github projects below.</p>
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
