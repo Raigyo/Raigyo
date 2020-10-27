@@ -4,7 +4,16 @@
   </a>
 </p>
 
-### :cat: Welcome to my Github! :cat:
+<p align='center'>
+<a href="https://raigyo-dev.be/"><img height="30" src="img_readme/icon-web.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vincent-chilot/"><img height="40" src="img_readme/icon-linked-in.png"></a>
+</p>
+
+<h2 align="center">Welcome to my Github!</h2>
+
+<p align="center">
+  <img src="img_readme/logo-majopovi.png">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Raigyo?label=Followers&style=social">
@@ -27,6 +36,10 @@ Here are some ideas to get you started:
 Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
+
+Exemple:
+
+[stephenajulu/README.md](https://github.com/stephenajulu/stephenajulu/blob/master/README.md)
 
 Useful Links:
 
