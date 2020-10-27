@@ -1,16 +1,10 @@
-![logo](img_readme/logo.png)
-
 <p align="center">
   <a href="https://raigyo-dev.be/" target="_blank">
     <img src="img_readme/logo.png">
   </a>
 </p>
 
-
-
 ### :cat: Welcome to my Github! :cat:
-
-
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Raigyo?label=Followers&style=social">
