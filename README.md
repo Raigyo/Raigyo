@@ -1,4 +1,14 @@
+![logo](img_readme/logo.png)
+
+
+
 ### Hi there 👋
+
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![followers](https://img.shields.io/github/followers/Raigyo?label=Followers&style=social)
 
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Useful Links:
+
+- [Creating amazing GitHub profiles README](https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31)
+- [You can also learn how to [build a self-updating profile](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+- [Learn how to add shields into the content](https://shields.io/)
+- [Learn how to add GitHub Readme Stats on your readmes!](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+- [See how to add Emoticon](https://gist.github.com/rxaviers/7360908)
 -->
