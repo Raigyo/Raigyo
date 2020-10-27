@@ -12,7 +12,7 @@
 <h2 align="center">Welcome to my Github!</h2>
 
 <p align="center">
-  <img src="img_readme/logo-majopovi.png">
+  <img src="img_readme/logo-majopovi.png" height="120">
 </p>
 
 <p align="center">
