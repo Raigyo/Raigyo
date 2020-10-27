@@ -11,8 +11,11 @@
 
 <h2 align="center">Welcome to my Github!</h2>
 
-<p align='center'>Hi, i'm Vincent aka Raigyo. I'm a front-end developer.
-But I also develop in Unity.</p>
+<p align='center'>Hi, i'm Vincent aka Raigyo. I'm a front-end developer.</p>
+<p align='center'>I'm in the  deveopment since 2001 and I worked for more than 16 years in a web agency.
+<p align='center'>Recently I followed a boot camp training</p>
+in web development at <a href="https://becode.org/">Becode</a>.</p>
+<p align='center'>I also develop in Unity since I made a traineeship in a company that was involved in VR applications.</p>
 <p align='center'>To know more about my work and abilities, Visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my github projects below.</p>
@@ -62,7 +65,7 @@ All the features were developped in blank theme.
 
 - [Libray Management](https://github.com/Raigyo/express-locallibrary): REST API with Express.js
 using Mongoose ORM / MongoDB Atlas.
-- [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web): Becode exercises
+- [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
 about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
 <h3 align="center">React</h3>
@@ -118,7 +121,7 @@ It's the VR version for the Oculus Rift of my 'Archviz' work.
 - [Archviz](https://github.com/Raigyo/unity-3d-archviz): *Original* house visit development.
 There are 3 modes: Hotspots mode, First Person Mode or Cinematic mode. You can select which mode
 you want to use in the main menu.
-- [A Forest](https://github.com/Raigyo/unity-3d-game-forest): *Original* game 
+- [A Forest](https://github.com/Raigyo/unity-3d-game-forest): *Original* game
 development - 'A Forest'.
 
 <h3 align="center">PHP Laravel</h3>
