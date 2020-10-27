@@ -6,7 +6,7 @@
 
 <p align='center'>
 <a href="https://raigyo-dev.be/"><img height="30" src="img_readme/icon-web.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vincent-chilot/"><img height="40" src="img_readme/icon-linked-in.png"></a>
+<a href="https://www.linkedin.com/in/vincent-chilot/"><img height="32" src="img_readme/icon-linked-in.png"></a>
 </p>
 
 <h2 align="center">Welcome to my Github!</h2>
