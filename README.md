@@ -21,6 +21,8 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below.</p>
 
+<img src="https://github.com/Raigyo/Raigyo/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
 <h3 align="center">HTML & CSS</h3>
@@ -179,6 +181,8 @@ Here are some ideas to get you started:
 Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
+
+[WakaTime Coding Statistics](https://github.com/marketplace/actions/wakatime-coding-statistics)
 
 Exemple:
 
