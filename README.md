@@ -149,7 +149,9 @@ introduce **React Native** with **Expo**.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Raigyo?label=Followers&style=social">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=raigyo.raigyo">
 </p>
+
 
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md`
