@@ -23,6 +23,15 @@ or check my Github projects below.</p>
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 21 October, 2020 - 28 October, 2020
+
+JavaScript   6 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.91 % 
+Markdown     3 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 % 
+PHP          1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Git Config   58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+```
 <!--END_SECTION:waka-->
 ![Waka Readme](https://github.com/Raigyo/Raigyo/workflows/Waka%20Readme/badge.svg)
 
