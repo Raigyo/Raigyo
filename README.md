@@ -21,11 +21,9 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below.</p>
 
-<!--
-<div align="center">
-<img  src="https://github.com/Raigyo/Raigyo/blob/main/codeStats.svg" alt="stats waka"/>
-</div>
--->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -61,8 +59,8 @@ React with hot reload using hooks.
 
 <h3 align="center">Wordpress</h3>
 
-- [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog): A blog made with Wordpress from scratch.
-All the features were developped in blank theme.
+- [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
+from scratch. All the features were developped in blank theme.
 
 <h3 align="center">Drupal</h3>
 
@@ -83,8 +81,8 @@ Strapi headless CMS with GraphQL & Stripe for online payments.
 React Router DOM, Firebase, Paypal (Sand Box), React Player, *themoviedb* API.
 - [React 360 / React VR](https://github.com/Raigyo/react-vr-apps): Several applications
 using the Facebook React VR/360 library.
-- [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop - by Matthieu Jasselette
-& Alexandre Bove.
+- [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop
+- by Matthieu Jasselette & Alexandre Bove.
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
 Characters manager with ReactJS (CRUD with API).
 
@@ -94,8 +92,8 @@ Characters manager with ReactJS (CRUD with API).
 we can swipe between images that move or come back in their position like in Tinder app.
 - [Facebook Login](https://github.com/Raigyo/react-native-fb-login): Log to an app with
 a Facebook account.
-- [My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile application
-using *themoviedb* API to retrieve movies. Use Redux and ejection concept (Expo to CLI).
+- [My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile
+application using *themoviedb* API to retrieve movies. Use Redux and ejection concept (Expo to CLI).
 Then migration on Google Play.
 
 <h3 align="center">Angular</h3>

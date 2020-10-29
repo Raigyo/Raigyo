@@ -1,19 +1,17 @@
-name: Update README with my latest coding stats
+name: Waka Readme
 
 on:
-  push:
-    branches: [ main ]
   schedule:
-    - cron: '30 5 * * *'
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
-  update-Readme:
-    name: Automatically update my README
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <Raigyo/Raigyo> # optional, By default, it will automatically use the repository who's executing the workflow.
