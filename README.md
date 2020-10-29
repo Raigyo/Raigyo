@@ -24,7 +24,7 @@ or check my Github projects below.</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+![Waka Readme](https://github.com/Raigyo/Raigyo/workflows/Waka%20Readme/badge.svg)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
