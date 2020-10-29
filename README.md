@@ -23,10 +23,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 📊 Weekly development statistics:
 
-<div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</div>
+
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
