@@ -21,10 +21,11 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below.</p>
 
-
+<div align="center">
+![Waka Time](https://github.com/Raigyo/Raigyo/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Waka Readme](https://github.com/Raigyo/Raigyo/workflows/Waka%20Readme/badge.svg)
+</div>
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
