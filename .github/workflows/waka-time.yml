@@ -15,4 +15,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          REPOSITORY: <Raigyo/Raigyo> # optional, By default, it will automatically use the repository who's executing the workflow.
