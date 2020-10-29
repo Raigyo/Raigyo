@@ -25,6 +25,7 @@ or check my Github projects below.</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
 <h3 align="center">HTML & CSS</h3>
