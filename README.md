@@ -19,7 +19,7 @@ in web development at <a href="https://becode.org/">Becode</a>.</p>
 involved in VR applications.</p>
 <p align="center">To know more about my work and abilities, please visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
-or check my Github projects below, with direct links to the repos.</p>
+or check my Github projects below, with direct links to the repositories.</p>
 
 📊 Weekly development statistics:
 
