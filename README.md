@@ -2,7 +2,7 @@
     <img src="img_readme/logo.png">
 </h1>
 
-<p align='center'>
+<p align="center">
 <a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a>
 <a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
   <img height="32" src="img_readme/icon-linked-in.png">
@@ -11,18 +11,19 @@
 
 <h2 align="center">Welcome to my Github!</h2>
 
-<p align='center'>Hi, I'm Vincent aka Raigyo. I'm a front-end developer.</p>
-<p align='center'>I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
-<p align='center'>Recently I followed a boot camp training
+<p align="center">Hi, I'm Vincent aka Raigyo. I'm a front-end developer.</p>
+<p align="center">I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
+<p align="center">Recently I followed a boot camp training
 in web development at <a href="https://becode.org/">Becode</a>.</p>
-<p align='center'>I also develop in Unity since I made a traineeship in a company that was
+<p align="center">I also develop in Unity since I made a traineeship in a company that was
 involved in VR applications.</p>
-<p align='center'>To know more about my work and abilities, please visit my
+<p align="center">To know more about my work and abilities, please visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
-or check my Github projects below.</p>
+or check my Github projects below, with direct links to the repos.</p>
+
+📊 Weekly development statistics:
 
 <div align="center">
-![Waka Time](https://github.com/Raigyo/Raigyo/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
@@ -186,7 +187,7 @@ Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raigyo)](https://github.com/anuraghazra/github-readme-stats)
 
-[WakaTime Coding Statistics](https://github.com/marketplace/actions/wakatime-coding-statistics)
+[WakaTime Coding Statistics](https://github.com/marketplace/actions/waka-readme)
 
 Exemple:
 
