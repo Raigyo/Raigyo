@@ -27,11 +27,10 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 29 October, 2020 - 05 November, 2020
 
-Markdown     1 hr 7 mins     ████████████▒░░░░░░░░░░░░   49.92 % 
-HTML         31 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 % 
-YAML         31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.98 % 
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+HTML         1 hr 10 mins    █████████████████▓░░░░░░░   70.80 % 
+Markdown     23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 <!--END_SECTION:waka-->
 
