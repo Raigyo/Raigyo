@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 30 October, 2020 - 06 November, 2020
+
+HTML       5 hrs 30 mins   ████████████████▓░░░░░░░░   66.71 % 
+SCSS       1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Other      43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Markdown   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+```
 <!--END_SECTION:waka-->
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
