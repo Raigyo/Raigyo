@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 30 October, 2020 - 06 November, 2020
-
-HTML       5 hrs 30 mins   ████████████████▓░░░░░░░░   66.71 % 
-SCSS       1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Other      43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Markdown   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
 <!--END_SECTION:waka-->
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -91,8 +82,7 @@ Strapi headless CMS with GraphQL & Stripe for online payments.
 React Router DOM, Firebase, Paypal (Sand Box), React Player, *themoviedb* API.
 - [React 360 / React VR](https://github.com/Raigyo/react-vr-apps): Several applications
 using the Facebook React VR/360 library.
-- [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop
-- by Matthieu Jasselette & Alexandre Bove.
+- [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop by Matthieu Jasselette & Alexandre Bove.
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
 Characters manager with ReactJS (CRUD with API).
 
