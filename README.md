@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
 HTML       5 hrs 30 mins   ████████████████▓░░░░░░░░   66.71 % 
 SCSS       1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
