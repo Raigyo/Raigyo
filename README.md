@@ -70,7 +70,7 @@ React with hot reload using hooks.
 <h3 align="center">Wordpress</h3>
 
 - [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
-from scratch. All the features were developped in blank theme.
+from scratch. All the features were developed in blank theme.
 
 <h3 align="center">Drupal</h3>
 
