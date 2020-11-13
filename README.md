@@ -24,16 +24,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 01 November, 2020 - 08 November, 2020
-
-HTML         8 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.37 % 
-SCSS         3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-JSON         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Other        45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-```
 <!--END_SECTION:waka-->
+
+🌱 I’m currently learning :
+
+- [D3.js](https://github.com/Raigyo/d3js-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
