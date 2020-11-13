@@ -26,9 +26,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-🌱 I’m currently learning :
+🌱 I’m currently learning : [D3.js](https://github.com/Raigyo/d3js-overview)
 
-- [D3.js](https://github.com/Raigyo/d3js-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
