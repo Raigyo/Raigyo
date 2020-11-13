@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 05 November, 2020 - 12 November, 2020
+
+HTML         7 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.87 % 
+SCSS         3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.68 % 
+JSON         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Other        45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently learning : [D3.js](https://github.com/Raigyo/d3js-overview)
