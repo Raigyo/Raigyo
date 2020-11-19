@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 11 November, 2020 - 18 November, 2020
+
+JavaScript   8 hrs 58 mins   ███████████████▒░░░░░░░░░   61.42 % 
+Markdown     2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 % 
+HTML         2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+JSON         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [Node characters manager API](https://github.com/Raigyo/node-characters-manager-api)
