@@ -72,6 +72,7 @@ from scratch. All the features were developed in blank theme.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [D3.js: charts](https://github.com/Raigyo/d3js-overview): Animattttynamic charts using the Data-Driven Documents library.
 - [Libray Management](https://github.com/Raigyo/express-locallibrary): REST API with Express.js
 using Mongoose ORM / MongoDB Atlas.
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
