@@ -24,18 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 11 November, 2020 - 18 November, 2020
-
-JavaScript   8 hrs 58 mins   ███████████████▒░░░░░░░░░   61.42 % 
-Markdown     2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 % 
-HTML         2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-JSON         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently learning : [D3.js](https://github.com/Raigyo/d3js-overview)
+🌱 I’m currently working on : [Node characters manager API](https://github.com/Raigyo/node-characters-manager-api)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -71,7 +62,6 @@ and persistant states during reload.
 React with hot reload using hooks.
 
 <h3 align="center">Wordpress</h3>
-
 - [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
 from scratch. All the features were developed in blank theme.
 
