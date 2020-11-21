@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2020 - 19 November, 2020
+Week: 13 November, 2020 - 20 November, 2020
 
 JavaScript   11 hrs 16 mins  ██████████████▓░░░░░░░░░░   58.14 % 
 Markdown     4 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
