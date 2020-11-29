@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2020 - 27 November, 2020
+Week: 21 November, 2020 - 28 November, 2020
 
 Svelte       7 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.32 % 
 JavaScript   4 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 % 
