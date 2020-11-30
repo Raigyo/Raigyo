@@ -24,18 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 22 November, 2020 - 29 November, 2020
-
-Svelte       9 hrs 29 mins   ██████████████████▓░░░░░░   74.82 % 
-JavaScript   2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on : [Node characters manager API](https://github.com/Raigyo/node-characters-manager-api)
+🌱 I’m currently working on : [Svelte](https://github.com/Raigyo/svelte-overview)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -122,6 +113,10 @@ Axios and JSon Server.
 drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google
 Cloud Firestore to store datas.
+
+<h3 align="center">Svelte</h3>
+- [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
+reactive methods, components lifecycle...
 
 <h3 align="center">WebGL</h3>
 
