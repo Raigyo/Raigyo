@@ -105,7 +105,7 @@ Then migration on Google Play.
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
 the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
-<h3 align="center">VueJS</h3>
+<h3 align="center">Vue</h3>
 
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
 Axios and JSon Server.
@@ -115,6 +115,7 @@ drop using VueX.
 Cloud Firestore to store datas.
 
 <h3 align="center">Svelte</h3>
+
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
 reactive methods, components lifecycle...
 
