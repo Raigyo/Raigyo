@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 22 November, 2020 - 29 November, 2020
-
-Svelte       9 hrs 29 mins   ██████████████████▓░░░░░░   74.82 % 
-JavaScript   2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [Svelte](https://github.com/Raigyo/svelte-overview)
