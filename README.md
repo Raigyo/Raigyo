@@ -24,18 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 23 November, 2020 - 30 November, 2020
-
-Svelte       12 hrs 44 mins  ██████████████████████░░░   88.63 % 
-JavaScript   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on : [Svelte](https://github.com/Raigyo/svelte-overview)
+🌱 I’m currently working on : [Svelte](https://github.com/Raigyo/svelte-spending)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -125,6 +116,8 @@ Cloud Firestore to store datas.
 
 <h3 align="center">Svelte</h3>
 
+- [Pokédex](https://github.com/Raigyo/svelte-pokedex): Page displaying a list of Pokémons fetched
+from a Poékemon API.
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
 reactive methods, components lifecycle...
 
