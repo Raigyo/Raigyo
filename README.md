@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 26 November, 2020 - 03 December, 2020
+
+Svelte       14 hrs 48 mins  █████████████████▓░░░░░░░   70.79 % 
+Markdown     2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+HTML         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+SCSS         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [Svelte / Sapper](https://github.com/Raigyo/sapper-strapi-blog-static)
