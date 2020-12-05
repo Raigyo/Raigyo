@@ -24,18 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 27 November, 2020 - 04 December, 2020
-
-Svelte       11 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.60 % 
-Markdown     3 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 % 
-HTML         1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-SCSS         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on : [Svelte / Sapper](https://github.com/Raigyo/sapper-strapi-blog-static)
+🌱 I’m currently working on : [Vue - Medium clone](https://github.com/Raigyo/vue-medium-clone)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
