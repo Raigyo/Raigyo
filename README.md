@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2020 - 05 December, 2020
+Week: 29 November, 2020 - 06 December, 2020
 
 Svelte       11 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   45.44 % 
 Markdown     3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
