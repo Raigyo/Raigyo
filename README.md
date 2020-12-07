@@ -27,11 +27,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 29 November, 2020 - 06 December, 2020
 
-Svelte       11 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   45.44 % 
-Markdown     3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-HTML         2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-SCSS         2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JavaScript   2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Svelte       10 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   41.77 % 
+Markdown     3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+HTML         2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+SCSS         2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+JavaScript   2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 <!--END_SECTION:waka-->
 
