@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 03 December, 2020 - 10 December, 2020
+
+JavaScript   11 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.40 % 
+Markdown     3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Vue.js       2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JSON         1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [Node / MySQL / Rest API](https://github.com/Raigyo/node-restfulapi)
