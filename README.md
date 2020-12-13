@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
 JavaScript   13 hrs 51 mins  ██████████████▓░░░░░░░░░░   58.80 % 
 Vue.js       2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
