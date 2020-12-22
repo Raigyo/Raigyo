@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 14 December, 2020 - 21 December, 2020
+
+JavaScript   11 hrs 28 mins  ███████████████░░░░░░░░░░   59.51 % 
+Markdown     3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Twig         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other        1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [React chat maintenance](https://github.com/Raigyo/react-chat)
