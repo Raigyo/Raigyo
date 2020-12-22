@@ -24,18 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 14 December, 2020 - 21 December, 2020
-
-JavaScript   11 hrs 28 mins  ███████████████░░░░░░░░░░   59.51 % 
-Markdown     3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Twig         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other        1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on : [Node / MySQL / Rest API](https://github.com/Raigyo/node-restfulapi)
+🌱 I’m currently working on : [React chat maintenance](https://github.com/Raigyo/react-chat)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -81,6 +72,7 @@ from scratch. All the features were developed in blank theme.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [Restfull API: members](https://github.com/Raigyo/node-restfulapi): ResFul API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
 - [D3.js: charts](https://github.com/Raigyo/d3js-overview): Data-Driven Documents library, animated and dynamic charts using Firebase.
 - [Libray Management](https://github.com/Raigyo/express-locallibrary): REST API with Express.js
 using Mongoose ORM / MongoDB Atlas.
