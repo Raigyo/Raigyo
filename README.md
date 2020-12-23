@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 15 December, 2020 - 22 December, 2020
-
-JavaScript   14 hrs 40 mins  █████████████████░░░░░░░░   68.61 % 
-Markdown     2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Other        1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Twig         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [React chat maintenance](https://github.com/Raigyo/react-chat)
@@ -94,6 +85,7 @@ about javascript for the web: use of Parcel.JS and strict mode, forms, API reque
 Strapi headless CMS with GraphQL & Stripe for online payments.
 - [React Netflix](https://github.com/Raigyo/react-netflix-clone): Clone of Netflix using Redux,
 React Router DOM, Firebase, Paypal (Sand Box), React Player, *themoviedb* API.
+- [Chatty](https://github.com/Raigyo/react-chat): Real-Time Chat App with React and Google Firebase - Connection with Email, Github, Facebook or Google.
 - [React 360 / React VR](https://github.com/Raigyo/react-vr-apps): Several applications
 using the Facebook React VR/360 library.
 - [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop by Matthieu Jasselette & Alexandre Bove.
