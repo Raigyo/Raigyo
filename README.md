@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
+Week: 23 December, 2020 - 30 December, 2020
 
 JavaScript   2 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.43 % 
 Markdown     44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
