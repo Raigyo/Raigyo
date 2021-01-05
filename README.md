@@ -24,16 +24,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 28 December, 2020 - 04 January, 2021
-
-HTML         4 hrs 14 mins   ███████████████████▒░░░░░   77.45 % 
-Markdown     1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on : [React chat maintenance](https://github.com/Raigyo/react-chat)
+🌱 I’m currently working on : [Material Design](https://github.com/Raigyo/material-design-materialize-)
 
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -60,11 +53,9 @@ website using Bootstrap.
 nesting, mixins, inheritance...).
 - [Parcel, Module Bundler](https://github.com/Raigyo/parcel-bundler): How to configurate Parcel.
 Eslint+Prettier, Babel, SASS, CSS postprocessor...
-- [Webpack overview](https://github.com/Raigyo/webpack-overview): Webpack configuration with Babel,
- Sass, Eslint, Dev Server...
+- [Webpack overview](https://github.com/Raigyo/webpack-overview): Webpack configuration with Babel, Sass, Eslint, Dev Server...
 - [Webpack for React](https://github.com/Raigyo/webpack-react-hot-reload): Webpack with a focus
-on hot reload using Hot Module Replacement (HMR) in React with classes
-and persistant states during reload.
+on hot reload using Hot Module Replacement (HMR) in React with classes and persistant states during reload.
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
 React with hot reload using hooks.
 
@@ -106,8 +97,7 @@ we can swipe between images that move or come back in their position like in Tin
 - [Facebook Login](https://github.com/Raigyo/react-native-fb-login): Log to an app with
 a Facebook account.
 - [My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile
-application using *themoviedb* API to retrieve movies. Use Redux and ejection concept (Expo to CLI).
-Then migration on Google Play.
+application using *themoviedb* API to retrieve movies. Use Redux and ejection concept (Expo to CLI). Then migration on Google Play.
 
 <h3 align="center">Angular</h3>
 
@@ -120,8 +110,7 @@ the basics concepts of Angular and RxJS: materials, reactive forms, observables.
 Axios and JSon Server.
 - [Ideas manager / Kanban](https://github.com/Raigyo/vuex-ideas): Brainstorming with drag and
 drop using VueX.
-- [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google
-Cloud Firestore to store datas.
+- [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
 <h3 align="center">Svelte</h3>
 
