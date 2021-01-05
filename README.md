@@ -24,13 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 28 December, 2020 - 04 January, 2021
-
-HTML         4 hrs 14 mins   ███████████████████▒░░░░░   77.45 % 
-Markdown     1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on : [Material Design](https://github.com/Raigyo/material-design-materialize-)
