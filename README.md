@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
 HTML         4 hrs 14 mins   ███████████████████▒░░░░░   77.45 % 
 Markdown     1 hr 11 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
