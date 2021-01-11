@@ -27,8 +27,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 03 January, 2021 - 10 January, 2021
 
-HTML       8 hrs 15 mins   ██████████████████████▓░░   91.27 % 
-Markdown   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+HTML       9 hrs 41 mins   █████████████████████▓░░░   87.26 % 
+Markdown   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+CSS        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 <!--END_SECTION:waka-->
 
