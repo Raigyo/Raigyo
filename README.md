@@ -11,7 +11,7 @@
 
 <h2 align="center">Welcome to my Github!</h2>
 
-<p align="center">Hi, I'm Vincent aka Raigyo. I'm a front-end developer.</p>
+<p align="center">Hi, I'm Vincent aka Raigyo. I'm a web developer.</p>
 <p align="center">I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
 <p align="center">Recently I followed a boot camp training
 in web development at <a href="https://becode.org/">Becode</a>.</p>
@@ -28,7 +28,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 🌱 I’m currently working on :
 
-- [React Twitch clone using Hooks](https://github.com/Raigyo/react-hooks-twitch-clone)
 - [Web components](https://github.com/Raigyo/web-components)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -73,7 +72,7 @@ from scratch. All the features were developed in blank theme.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
-- [Restfull API: members](https://github.com/Raigyo/node-restfulapi): ResFul API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
+- [Restful API: members](https://github.com/Raigyo/node-restfulapi): Restful API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
 - [D3.js: charts](https://github.com/Raigyo/d3js-overview): Data-Driven Documents library, animated and dynamic charts using Firebase.
 - [Libray Management](https://github.com/Raigyo/express-locallibrary): REST API with Express.js
 using Mongoose ORM / MongoDB Atlas.
@@ -82,6 +81,7 @@ about javascript for the web: use of Parcel.JS and strict mode, forms, API reque
 
 <h3 align="center">React</h3>
 
+- [React Twitch clone using Hooks](https://github.com/Raigyo/react-hooks-twitch-clone): Twitch clone using React with hooks and Twitch API v5.
 - [Online Store](https://github.com/Raigyo/react-online-store): Store made with React,
 Strapi headless CMS with GraphQL & Stripe for online payments.
 - [React Netflix](https://github.com/Raigyo/react-netflix-clone): Clone of Netflix using Redux,
