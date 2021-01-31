@@ -24,20 +24,12 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 23 January, 2021 - 30 January, 2021
-
-JavaScript   5 hrs 29 mins   ███████████████████▒░░░░░   76.91 % 
-Markdown     1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on :
 
 - [Web components](https://github.com/Raigyo/web-components)
+- [Gatsby portfolio using Wordpress as headless CMS and GraphQL](https://github.com/Raigyo/gatsby-wp-portfolio)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
