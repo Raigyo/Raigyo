@@ -24,20 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 30 January, 2021 - 06 February, 2021
-
-JavaScript   12 hrs 37 mins  ████████████████████▒░░░░   80.84 % 
-Markdown     2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on :
+🌱 I’m currently working on:
 
 - [Web components](https://github.com/Raigyo/web-components)
-- [Gatsby portfolio using Wordpress as headless CMS and GraphQL](https://github.com/Raigyo/gatsby-wp-portfolio)
+
+😄 Last development:
+
+- [JAMStack - Gatsby portfolio with WP](https://github.com/Raigyo/gatsby-wp-portfolio)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -90,6 +85,7 @@ about javascript for the web: use of Parcel.JS and strict mode, forms, API reque
 
 <h3 align="center">React</h3>
 
+- [JAMStack - Gatsby portfolio](https://github.com/Raigyo/gatsby-wp-portfolio): Portfolio project with Gatsby to generate static site using Wordpress as headless CMS API and GraphQ.
 - [React Twitch clone using Hooks](https://github.com/Raigyo/react-hooks-twitch-clone): Twitch clone using React with hooks and Twitch API v5.
 - [Online Store](https://github.com/Raigyo/react-online-store): Store made with React,
 Strapi headless CMS with GraphQL & Stripe for online payments.
