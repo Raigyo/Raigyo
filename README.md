@@ -27,11 +27,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 09 February, 2021 - 16 February, 2021
 
-JavaScript   17 hrs 12 mins  ███████████████████▓░░░░░   79.02 % 
-HTML         2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Markdown     1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript   19 hrs 31 mins  ████████████████████▓░░░░   82.18 % 
+Markdown     1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+HTML         1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
 
