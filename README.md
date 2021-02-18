@@ -24,24 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 10 February, 2021 - 17 February, 2021
-
-JavaScript   18 hrs 55 mins  ████████████████████▓░░░░   83.14 % 
-Markdown     1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-HTML         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
 
+- [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node)
+
+
+😄 Latest developments:
+
 - [Web components](https://github.com/Raigyo/web-components)
-
-😄 Last development:
-
-- [JAMStack - Gatsby portfolio with WP](https://github.com/Raigyo/gatsby-wp-portfolio)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -85,6 +77,8 @@ from scratch. All the features were developed in blank theme.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, tranform...
+- [Web components](https://github.com/Raigyo/web-components): Web components overview using components displaying maps.
 - [Restful API: members](https://github.com/Raigyo/node-restfulapi): Restful API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
 - [D3.js: charts](https://github.com/Raigyo/d3js-overview): Data-Driven Documents library, animated and dynamic charts using Firebase.
 - [Libray Management](https://github.com/Raigyo/express-locallibrary): REST API with Express.js
