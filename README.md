@@ -66,15 +66,6 @@ on hot reload using Hot Module Replacement (HMR) in React with classes and persi
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
 React with hot reload using hooks.
 
-<h3 align="center">Wordpress</h3>
-
-- [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
-from scratch. All the features were developed in blank theme.
-
-<h3 align="center">Drupal</h3>
-
-- [Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
-
 <h3 align="center">Javascript & NodeJS</h3>
 
 - [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, tranform...
@@ -132,6 +123,15 @@ Simple application to calculate expenses.
 of Pokémons fetched from a Pokémon API.
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
 reactive methods, components lifecycle...
+
+<h3 align="center">Wordpress</h3>
+
+- [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
+from scratch. All the features were developed in blank theme.
+
+<h3 align="center">Drupal</h3>
+
+- [Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
 
 <h3 align="center">WebGL</h3>
 
