@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 01 March, 2021 - 08 March, 2021
+
+HTML         5 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.38 % 
+SCSS         2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JavaScript   1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Markdown     1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+CSS          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
