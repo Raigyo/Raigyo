@@ -24,27 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 01 March, 2021 - 08 March, 2021
-
-HTML         5 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.38 % 
-SCSS         2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
-JavaScript   1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Markdown     1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-CSS          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
 
+- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview)
+
+
+😄 Latest development(s):
+
 - [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat)
-
-
-😄 Latest developments:
-
-- [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node)
-
-- [Web components](https://github.com/Raigyo/web-components)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -79,6 +68,7 @@ React with hot reload using hooks.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat): Chat application using SocketIO.
 - [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, tranform...
 - [Web components](https://github.com/Raigyo/web-components): Web components overview using components displaying maps.
 - [Restful API: members](https://github.com/Raigyo/node-restfulapi): Restful API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
