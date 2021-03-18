@@ -24,25 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 10 March, 2021 - 17 March, 2021
-
-HTML         4 hrs 27 mins   ███████████████░░░░░░░░░░   60.26 % 
-JavaScript   1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Markdown     1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-CSS          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
 
-- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview)
+- [Progressive web app](https://github.com/Raigyo/progressive-web-app)
 
 
 😄 Latest development(s):
 
-- [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat)
+- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -50,6 +41,7 @@ JSON         20 mins         █░░░░░░░░░░░░░░░░
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
 media queries.
+- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): overview and Showcase website "SEOTOOL".
 - [Material Design](https://github.com/Raigyo/material-design-materialize-): Materialize CSS, overview and portfolio project inspired from Google Material Design.
 - [CSS Animations](https://github.com/Raigyo/css-animations): How to animate with CSS.
 - [CSS Flexbox](https://github.com/Raigyo/css-flexbox): Basic layout using Flexbox.
