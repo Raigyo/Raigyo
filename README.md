@@ -24,24 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 17 March, 2021 - 24 March, 2021
-
-JavaScript   7 hrs 55 mins   ███████████████▒░░░░░░░░░   61.73 % 
-Markdown     2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.95 % 
-HTML         1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
 
-- [Progressive web app](https://github.com/Raigyo/progressive-web-app)
-
+- [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me)
 
 😄 Latest development(s):
 
+- [Progressive web app](https://github.com/Raigyo/progressive-web-app)
 - [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
@@ -78,6 +69,7 @@ React with hot reload using hooks.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
 - [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat): Chat application using SocketIO.
 - [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, tranform...
 - [Web components](https://github.com/Raigyo/web-components): Web components overview using components displaying maps.
