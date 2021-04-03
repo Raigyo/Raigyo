@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 March, 2021 - 01 April, 2021
+Week: 26 March, 2021 - 02 April, 2021
 
 Markdown     5 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 % 
 SCSS         4 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 % 
