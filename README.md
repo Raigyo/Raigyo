@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 16 April, 2021 - 23 April, 2021
-
-HTML         9 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.40 % 
-TypeScript   3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-JavaScript   3 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Markdown     1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
@@ -41,8 +32,7 @@ CSS          13 mins         ▒░░░░░░░░░░░░░░░░
 
 😄 Latest development(s):
 
-- [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me)
-- [Progressive web app](https://github.com/Raigyo/progressive-web-app)
+- [Bulma CSS Framework - overview](https://github.com/Raigyo/bulma-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -65,7 +55,6 @@ CSS          13 mins         ▒░░░░░░░░░░░░░░░░
 
 <h3 align="center">Tools and Configs</h3>
 
-- [Documents, procedures and cheetsheets](https://github.com/Raigyo/procedures-cheatsheets)
 - [SASS & SCSS](https://github.com/Raigyo/sass-scss): Overview of the CSS preprocessor (variables,
   nesting, mixins, inheritance...).
 - [Parcel, Module Bundler](https://github.com/Raigyo/parcel-bundler): How to configurate Parcel.
