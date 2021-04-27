@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 19 April, 2021 - 26 April, 2021
-
-HTML         12 hrs 4 mins   ███████████▒░░░░░░░░░░░░░   44.96 % 
-TypeScript   8 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
-JavaScript   4 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Markdown     1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
@@ -49,7 +40,8 @@ CSS          14 mins         ▒░░░░░░░░░░░░░░░░
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
-- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): overview and Showcase website "SEOTOOL".
+- [Bulma CSS Framework](https://github.com/Raigyo/bulma-overview): Overview and Showcase websites "Site Immo" and "Portfolio".
+- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): Overview and Showcase website "SEOTOOL".
 - [Material Design](https://github.com/Raigyo/material-design-materialize-): Materialize CSS, overview and portfolio project inspired from Google Material Design.
 - [CSS Animations](https://github.com/Raigyo/css-animations): How to animate with CSS.
 - [CSS Flexbox](https://github.com/Raigyo/css-flexbox): Basic layout using Flexbox.
