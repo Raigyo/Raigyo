@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
 HTML         14 hrs 16 mins  ██████████████▒░░░░░░░░░░   57.27 % 
 TypeScript   4 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
