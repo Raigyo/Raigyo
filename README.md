@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 25 April, 2021 - 02 May, 2021
-
-HTML         11 hrs 6 mins   ████████████▓░░░░░░░░░░░░   50.29 % 
-TypeScript   4 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 % 
-SCSS         3 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Markdown     54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
@@ -41,7 +32,7 @@ JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░
 
 😄 Latest development(s):
 
-- [Bulma CSS Framework - overview](https://github.com/Raigyo/bulma-overview)
+- [Boostrap CSS Framework ](https://github.com/Raigyo/bootstrap-overview)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -49,8 +40,9 @@ JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
-- [Bulma CSS Framework](https://github.com/Raigyo/bulma-overview): Overview and Showcase websites "Site Immo" and "Portfolio".
-- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): Overview and Showcase website "SEOTOOL".
+- [Boostrap CSS Framework ](https://github.com/Raigyo/bootstrap-overview): Overview and showcase "Easy Job".
+- [Bulma CSS Framework](https://github.com/Raigyo/bulma-overview): Overview and showcase websites "Site Immo" and "Portfolio".
+- [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): Overview and showcase website "SEOTOOL".
 - [Material Design](https://github.com/Raigyo/material-design-materialize-): Materialize CSS, overview and portfolio project inspired from Google Material Design.
 - [CSS Animations](https://github.com/Raigyo/css-animations): How to animate with CSS.
 - [CSS Flexbox](https://github.com/Raigyo/css-flexbox): Basic layout using Flexbox.
