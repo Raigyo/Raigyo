@@ -24,20 +24,12 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 11 May, 2021 - 18 May, 2021
-
-JavaScript   10 hrs 41 mins  ████████████▓░░░░░░░░░░░░   51.06 % 
-TypeScript   5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Other        1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-HTML         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-JSON         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-```
 <!--END_SECTION:waka-->
 
 🌱 I’m currently working on:
 
-- [MEAN Stack](https://github.com/Raigyo/mean-stack-whisky)
+- [Node.js - Unit Testing with Mocha and Chai](https://github.com/Raigyo/node-unit-testing-mocha)
+- [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky)
 
 😄 Latest development(s):
 
