@@ -24,25 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 13 May, 2021 - 20 May, 2021
-
-JavaScript   10 hrs 19 mins  ██████████████▒░░░░░░░░░░   56.73 % 
-Markdown     2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Other        1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-JSON         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-TypeScript   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-```
 <!--END_SECTION:waka-->
 
-🌱 I’m currently working on:
+🔭 I’m currently working on:
 
-- [Node.js - Unit Testing with Mocha and Chai](https://github.com/Raigyo/node-unit-testing-mocha)
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky)
 
-😄 Latest development(s):
+🚀 Latest development(s):
 
-- [Boostrap CSS Framework ](https://github.com/Raigyo/bootstrap-overview)
+- [Node.js - Unit Testing with Mocha and Chai](https://github.com/Raigyo/node-unit-testing-mocha)
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -76,6 +66,10 @@ TypeScript   59 mins         █▒░░░░░░░░░░░░░░░
   on hot reload using Hot Module Replacement (HMR) in React with classes and persistant states during reload.
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
+
+<h3 align="center">Testing</h3>
+
+- [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
 
 <h3 align="center">Javascript & NodeJS</h3>
 
@@ -138,25 +132,21 @@ TypeScript   59 mins         █▒░░░░░░░░░░░░░░░
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
 
-<h3 align="center">Wordpress</h3>
+<h3 align="center">PHP Laravel / CMS: Drupal, Wordpress</h3>
 
-- [Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
+- [Drupal: Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
+- [Wordpress: Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
   from scratch. All the features were developed in blank theme.
-
-<h3 align="center">Drupal</h3>
-
-- [Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
-
-<h3 align="center">WebGL</h3>
-
-- [Three.js](https://github.com/Raigyo/three-js): 3D Programming with JavaScript
-  and the Three.js 3D library.
-- [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer
-  First Personnal Shooter using SocketIO.
-- [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
+- [API with Laravel](https://github.com/Raigyo/laravel-api) (Becode): CRUD using Tinker,
+  Unit testing, Web interface with CRUD
+- [Basic configuration](https://github.com/Raigyo/laravel-basics) (Becode): installation
+  of the Framework, featuring contact form to send an email and sending an image that will be
+  hosted on the server
 
 <h3 align="center">Unity 3D / C# / Virtual Reality</h3>
 
+- [Three.js](https://github.com/Raigyo/three-js): 3D Programming with JavaScript
+  and the Three.js 3D library.
 - [Archviz - Virtual Reality for Oculus Rift](https://github.com/Raigyo/unity-3d-archviz-vr-oculus):
   Visit a non existing house in a realistic 3D environment.
   It's the VR version for the Oculus Rift of my 'Archviz' work.
@@ -165,14 +155,8 @@ TypeScript   59 mins         █▒░░░░░░░░░░░░░░░
   you want to use in the main menu.
 - [A Forest](https://github.com/Raigyo/unity-3d-game-forest): _Original_ game
   development - 'A Forest'.
-
-<h3 align="center">PHP Laravel</h3>
-
-- [API with Laravel](https://github.com/Raigyo/laravel-api) (Becode): CRUD using Tinker,
-  Unit testing, Web interface with CRUD
-- [Basic configuration](https://github.com/Raigyo/laravel-basics) (Becode): installation
-  of the Framework, featuring contact form to send an email and sending an image that will be
-  hosted on the server
+- [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
+- [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
 <h3 align="center">Becode group works</h3>
 
