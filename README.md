@@ -25,13 +25,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 May, 2021 - 27 May, 2021
+Week: 21 May, 2021 - 28 May, 2021
 
-JavaScript   9 hrs 42 mins   ██████████████░░░░░░░░░░░   55.86 % 
-Markdown     2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-CSS          1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-TypeScript   1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JavaScript   8 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.11 % 
+TypeScript   4 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+CSS          3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+HTML         3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Markdown     1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 <!--END_SECTION:waka-->
 
