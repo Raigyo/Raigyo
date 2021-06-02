@@ -24,20 +24,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 25 May, 2021 - 01 June, 2021
-
-JavaScript   6 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   35.28 % 
-TypeScript   3 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
-HTML         3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 % 
-CSS          2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Markdown     1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
 
-- [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky)
+- [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 
 🚀 Latest development(s):
 
@@ -120,6 +111,7 @@ Markdown     1 hr 8 mins     █▒░░░░░░░░░░░░░░░
 
 <h3 align="center">Angular</h3>
 
+- [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
@@ -152,7 +144,7 @@ Markdown     1 hr 8 mins     █▒░░░░░░░░░░░░░░░
   of the Framework, featuring contact form to send an email and sending an image that will be
   hosted on the server
 
-<h3 align="center">Unity 3D / C# / Virtual Reality</h3>
+<h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
 - [Three.js](https://github.com/Raigyo/three-js): 3D Programming with JavaScript
   and the Three.js 3D library.
