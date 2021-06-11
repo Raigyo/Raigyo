@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 June, 2021 - 09 June, 2021
+Week: 03 June, 2021 - 10 June, 2021
 
 JavaScript   3 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   45.92 % 
 TypeScript   1 hr 49 mins    ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
