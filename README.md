@@ -24,19 +24,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 07 June, 2021 - 14 June, 2021
-
-JavaScript   6 hrs 22 mins   ████████████████████▓░░░░   82.29 % 
-Markdown     48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-CSS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
 
+- [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript)
 
 🚀 Latest development(s):
