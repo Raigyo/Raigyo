@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
 JavaScript   6 hrs 22 mins   ████████████████████▓░░░░   82.29 % 
 Markdown     48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
