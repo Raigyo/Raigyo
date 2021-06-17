@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 09 June, 2021 - 16 June, 2021
-
-JavaScript   6 hrs 38 mins   ████████████████████░░░░░   80.24 % 
-Markdown     1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
@@ -96,6 +87,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 <h3 align="center">React</h3>
 
+- [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 - [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me): Medias sharing plateform using strongly typed Next.js (using Typescript), MongoDB, Apollo Client and Sever (GraphQL).
 - [JAMStack - Gatsby portfolio](https://github.com/Raigyo/gatsby-wp-portfolio): Portfolio project with Gatsby to generate static site using Wordpress as headless CMS API and GraphQL.
 - [React Twitch clone using Hooks](https://github.com/Raigyo/react-hooks-twitch-clone): Twitch clone using React with hooks and Twitch API v5.
