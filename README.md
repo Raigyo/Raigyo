@@ -24,25 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 09 June, 2021 - 16 June, 2021
-
-JavaScript   6 hrs 38 mins   ████████████████████░░░░░   80.24 % 
-Markdown     1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
 
-- [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
+- [NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course)
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript)
 
 🚀 Latest development(s):
 
-- [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
+- [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
