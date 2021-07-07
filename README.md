@@ -27,7 +27,10 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 30 June, 2021 - 06 July, 2021
 
-Markdown     3 mins          ███████████████████████▓░   95.24 % 
+TypeScript   1 hr 42 mins    ████████████████████▓░░░░   82.87 % 
+Markdown     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 
