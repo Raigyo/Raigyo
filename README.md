@@ -25,7 +25,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 July, 2021 - 30 July, 2021
+
+TypeScript   2 hrs 16 mins   ██████████████▓░░░░░░░░░░   59.18 % 
+JSON         45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+HTML         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Markdown     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 <!--END_SECTION:waka-->
 
