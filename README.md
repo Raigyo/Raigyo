@@ -24,15 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 05 August, 2021 - 11 August, 2021
-
-TypeScript   7 hrs 52 mins   ████████████████▒░░░░░░░░   65.80 % 
-HTML         2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.30 % 
-Markdown     1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
 <!--END_SECTION:waka-->
 
 <!-- 🔭 I’m currently working on: -->
@@ -124,6 +115,7 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <h3 align="center">Angular</h3>
 
+- [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
