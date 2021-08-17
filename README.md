@@ -27,11 +27,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 10 August, 2021 - 16 August, 2021
 
-TypeScript   9 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.68 % 
-HTML         2 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Markdown     2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CSS          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+TypeScript   8 hrs 55 mins   ███████████████▓░░░░░░░░░   62.34 % 
+HTML         2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Markdown     1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+JavaScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+CSS          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
 
