@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
 TypeScript   9 hrs 26 mins   ███████████████▒░░░░░░░░░   60.69 % 
 HTML         2 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 % 
