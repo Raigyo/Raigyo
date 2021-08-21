@@ -24,18 +24,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 14 August, 2021 - 20 August, 2021
-
-TypeScript   9 hrs 31 mins   █████████████████░░░░░░░░   68.08 % 
-HTML         1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JSON         1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-JavaScript   45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-```
 <!--END_SECTION:waka-->
 
-<!-- 🔭 I’m currently working on: -->
+🔭 I’m currently working on:
+
+- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): overview.
 
 🚀 Latest development(s):
 
@@ -43,8 +36,7 @@ Markdown     28 mins         █░░░░░░░░░░░░░░░░
 
 ⚡ Still in WIP
 
-- [NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course)
-- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript)
+- [NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course).
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -87,7 +79,7 @@ Markdown     28 mins         █░░░░░░░░░░░░░░░░
 
 - [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
 - [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat): Chat application using SocketIO.
-- [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, tranform...
+- [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, transform...
 - [Web components](https://github.com/Raigyo/web-components): Web components overview using components displaying maps.
 - [Restful API: members](https://github.com/Raigyo/node-restfulapi): Restful API using NodeJS+Express and MySQL to manage a list of members. Backend and frontend part + Swagger and Gitbook documentation.
 - [D3.js: charts](https://github.com/Raigyo/d3js-overview): Data-Driven Documents library, animated and dynamic charts using Firebase.
