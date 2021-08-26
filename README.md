@@ -24,23 +24,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 19 August, 2021 - 25 August, 2021
-
-TypeScript   17 hrs 46 mins  ██████████████████▒░░░░░░   73.95 % 
-Markdown     2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-HTML         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-```
 <!--END_SECTION:waka-->
 
-🔭 I’m currently working on:
-
-- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): overview.
+<!-- 🔭 I’m currently working on: -->
 
 🚀 Latest development(s):
 
+- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
 - [Angular - Pokémons](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 
 ⚡ Still in WIP
@@ -161,6 +151,8 @@ JSON         46 mins         ▓░░░░░░░░░░░░░░░░
 
 <h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
+- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
+- [Three.js, TypeScript and SocketIO](https://github.com/Raigyo/three-js-ball-game): Multiplayers Ball game.
 - [Three.js](https://github.com/Raigyo/three-js): 3D Programming with JavaScript
   and the Three.js 3D library.
 - [Archviz - Virtual Reality for Oculus Rift](https://github.com/Raigyo/unity-3d-archviz-vr-oculus):
