@@ -24,21 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 28 August, 2021 - 03 September, 2021
-
-JavaScript   57 mins         ███████████████▒░░░░░░░░░   60.78 % 
-HTML         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 % 
-Markdown     15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-```
 <!--END_SECTION:waka-->
 
-<!-- 🔭 I’m currently working on: -->
+🔭 I’m currently working on:
+
+- [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api)
 
 🚀 Latest development(s):
 
+- [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
-- [Angular - Pokémons](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 
 ⚡ Still in WIP
 
@@ -83,6 +78,7 @@ Markdown     15 mins         ████░░░░░░░░░░░░░
 
 <h3 align="center">Javascript & NodeJS</h3>
 
+- [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 - [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
 - [Socket I/O - chat](https://github.com/Raigyo/node-socket-io-chat): Chat application using SocketIO.
 - [In the heart of Node](https://github.com/Raigyo/in-the-heart-of-node): Node advanced concepts overview including events emitters, streams, transform...
