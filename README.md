@@ -24,25 +24,16 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Week: 10 September, 2021 - 16 September, 2021
-
-Vue.js       5 hrs 6 mins    ██████████████░░░░░░░░░░░   56.42 % 
-JavaScript   2 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 % 
-Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
 
-- [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api)
+- [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
 
 🚀 Latest development(s):
 
+- [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
-- [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
 
 ⚡ Still in WIP
 
@@ -134,6 +125,7 @@ Bash         14 mins         ▓░░░░░░░░░░░░░░░░
 
 <h3 align="center">Vue</h3>
 
+- [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
   Axios and JSon Server.
 - [Ideas manager / Kanban](https://github.com/Raigyo/vuex-ideas): Brainstorming with drag and
