@@ -24,6 +24,15 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Week: 10 September, 2021 - 16 September, 2021
+
+Vue.js       5 hrs 6 mins    ██████████████░░░░░░░░░░░   56.42 % 
+JavaScript   2 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 % 
+Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+```
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
