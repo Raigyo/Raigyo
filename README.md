@@ -27,11 +27,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 ```text
 Week: 14 September, 2021 - 20 September, 2021
 
-Vue.js       7 hrs 4 mins    ███████████████░░░░░░░░░░   59.81 % 
-Markdown     2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-JavaScript   1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Vue.js       5 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   37.32 % 
+Markdown     2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 % 
+Twig         1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+JavaScript   1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+PHP          1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
 <!--END_SECTION:waka-->
 
