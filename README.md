@@ -25,7 +25,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2021 - 20 September, 2021
+Week: 15 September, 2021 - 21 September, 2021
 
 Vue.js       5 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   37.32 % 
 Markdown     2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.01 % 
