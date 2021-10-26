@@ -21,19 +21,7 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
 
-📊 Weekly development statistics:
-
-<!--START_SECTION:waka-->
-```text
-Week: 16 September, 2021 - 22 September, 2021
-
-Twig         3 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
-Markdown     3 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.39 % 
-PHP          2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Vue.js       2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-JavaScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-```
-<!--END_SECTION:waka-->
+<!-- 📊 Weekly development statistics: -->
 
 🔭 I’m currently working on:
 
