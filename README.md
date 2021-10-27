@@ -26,6 +26,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
+
 🔭 I’m currently working on:
 
 - [Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.
