@@ -24,6 +24,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!-- 📊 Weekly development statistics: -->
 
 <!--START_SECTION:waka-->
+```text
+PHP        1 hr 47 mins    ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
+Vue.js     1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Markdown   53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Bash       43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Twig       42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
