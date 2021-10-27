@@ -24,7 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
