@@ -29,7 +29,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 🔭 I’m currently working on:
 
-- [Vue + Vuetify](https://github.com/Raigyo/vue-vuetifyg): Vue with Vuetify, a Material Design Framework.
+- [Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.
 
 🚀 Latest development(s):
 
