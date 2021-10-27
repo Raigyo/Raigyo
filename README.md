@@ -21,16 +21,19 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
 
-<!-- 📊 Weekly development statistics: -->
+📊 Weekly development statistics:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
 
-- [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
+- [Vue + Vuetify](https://github.com/Raigyo/vue-vuetifyg): Vue with Vuetify, a Material Design Framework.
 
 🚀 Latest development(s):
 
+- [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
 - [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
-- [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 
 ⚡ Still in WIP
 
