@@ -21,7 +21,7 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
 
-📊 Weekly development statistics:
+<!-- 📊 Weekly development statistics: -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
