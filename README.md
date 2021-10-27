@@ -24,6 +24,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 🔭 I’m currently working on:
@@ -193,7 +194,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Raigyo?label=Followers&style=social">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=raigyo.raigyo">
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=raigyo.raigyo"> -->
   <img src="https://img.shields.io/github/last-commit/Raigyo/Raigyo">
 </p>
 
