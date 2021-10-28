@@ -25,11 +25,10 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-PHP        1 hr 47 mins    ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
-Vue.js     1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Markdown   53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Bash       43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Twig       42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Vue.js       4 hrs 3 mins    ██████████████████▒░░░░░░   73.30 % 
+Markdown     51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 <!--END_SECTION:waka-->
 
