@@ -70,6 +70,21 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 10. <a href="#becode">Becode group works</a>
 
+<table>
+<tbody>
+	<tr>
+		<td>Column 1</td>
+		<td>Column 2</td>
+		<td>Column 3</td>
+	</tr>
+	<tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+		<td>Column 5</td>
+	</tr>
+</tbody>
+</table>
+
 
 <p id="html"></p>
 
