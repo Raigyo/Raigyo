@@ -1,4 +1,9 @@
-<div style="background-color: black; color: white">
+<style>
+h2 {
+  color: f00c7a;
+}
+</style>
+
 <div id="top"></div>
 
 <h1 align="center">
@@ -323,4 +328,3 @@ Useful Links:
 - [See how to add Emoticon](https://gist.github.com/rxaviers/7360908)
 -->
 
-</div>
