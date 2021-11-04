@@ -50,7 +50,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h3 style="color:2ea2e9;" align="center" id="summary">Summary</h3>
 
-<table>
+<table align="center">
 <tbody>
 	<tr>
 		<td>1. <a href="#html">HTML & CSS</a></td>
