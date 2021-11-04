@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-<span class="padding: 15px"><a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a></span>
-<span class="padding: 15px"><a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
+<span class="padding-right: 15px"><a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a></span>
+<span class="padding-left: 15px"><a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
   <img height="32" src="img_readme/icon-linked-in.png">
 </a></span>
 </p>
