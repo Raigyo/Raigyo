@@ -73,14 +73,24 @@ or check my Github projects below, with direct links to the repositories.</p>
 <table>
 <tbody>
 	<tr>
-		<td>Column 1</td>
-		<td>Column 2</td>
-		<td>Column 3</td>
+		<td>1. <a href="#html">HTML & CSS</a></td>
+		<td>2. <a href="#tools">Tools, Configs and Testing</a></td>
+	</tr>
+	<tr>
+		<td>3. <a href="#js">Javascript & NodeJS</a></td>
+		<td>4. <a href="#react">React / React Native</a></td>
 	</tr>
 	<tr>
 		<td>Custom Table Content</td>
 		<td>Column 4</td>
-		<td>Column 5</td>
+	</tr>
+	<tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+	</tr>
+	<tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
 	</tr>
 </tbody>
 </table>
