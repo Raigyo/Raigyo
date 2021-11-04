@@ -97,7 +97,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
 
-<p align="right"><a href="#top"><img width="60" height="38" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="tools"></p>
 
@@ -116,7 +116,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="js"></p>
 
@@ -136,7 +136,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="react"></p>
 
@@ -165,7 +165,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="angular"></p>
 
@@ -178,7 +178,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="vue"></p>
 
@@ -193,7 +193,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="svelte"></p>
 
@@ -209,7 +209,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="php"></p>
 
@@ -227,7 +227,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   of the Framework, featuring contact form to send an email and sending an image that will be
   hosted on the server.
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="3d"></p>
 
@@ -250,7 +250,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
-<p align="right"><a href="#top">Top of the page</a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="becode"></p>
 
@@ -273,7 +273,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Bad Ideas Kanban](https://github.com/Raigyo/jepsen-js-web-majopovi): **Javascript** CRUD
   and Api request. A group exercice for getting better at working together with **Git**.
 
-<p align="right"><a href="#top"><img width="60" height="38" src="img_readme/" alt="Top of the page"/></a></p>
+<p align="right"><a href="#top"><img width="30" height="19" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p align="center">
   <img src="img_readme/logo-majopovi.png" height="120">
