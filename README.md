@@ -89,7 +89,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
 
-<div id="tools"></div>
+<p id="tools"></p>
 
 
 <h3 align="center">Tools, Configs and Testing</h3>
@@ -105,7 +105,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
 
-<div id="js"></div>
+<p id="js"></p>
 
 
 <h3 align="center">Javascript & NodeJS</h3>
@@ -122,7 +122,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
-<div id="react"></div>
+<p id="react"></p>
 
 
 <h3 align="center">React / React Native</h3>
@@ -148,7 +148,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
 
-<div id="angular"></div>
+<p id="angular"></p>
 
 
 <h3 align="center">Angular 11</h3>
@@ -158,7 +158,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
-<div id="vue"></div>
+<p id="vue"></p>
 
 
 <h3 align="center">Vue 2 / 3</h3>
@@ -170,7 +170,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
-<div id="svelte"></div>
+<p id="svelte"></p>
 
 
 <h3 align="center">Svelte</h3>
@@ -183,7 +183,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
 
-<div id="php"></div>
+<p id="php"></p>
 
 
 <h3 align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
@@ -198,7 +198,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   of the Framework, featuring contact form to send an email and sending an image that will be
   hosted on the server.
 
-<div id="3d"></div>
+<p id="3d"></p>
 
 
 <h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
@@ -218,7 +218,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
-<div id="becode"></div>
+<p id="becode"></p>
 
 
 <h3 align="center">Becode group works</h3>
