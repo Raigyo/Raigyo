@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<h2 style="color:f00c7a" align="center">Welcome to my Github!</h2>
+<h2 style="color:f00c7a;" align="center">Welcome to my Github!</h2>
 
 <p align="center">Hi, I'm Vincent aka Raigyo. I'm a web developer.</p>
 <p align="center">I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
@@ -46,9 +46,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 - [NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course).
 
-<h2 style="color:f00c7a" align="center">Repositories: personnal trainings and projects, Becode training</h2>
+<h2 style="color:f00c7a;" align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
-<h3 style="color:2ea2e9" align="center" id="summary">SUMMARY</h3>
+<h3 style="color:2ea2e9;" align="center" id="summary">SUMMARY</h3>
 
 1. <a href="#html">HTML & CSS</a>
 
@@ -74,7 +74,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">HTML & CSS</h3>
+<h3 style="color:2ea2e9;" align="center">HTML & CSS</h3>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
@@ -99,7 +99,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Tools, Configs and Testing</h3>
+<h3 style="color:2ea2e9;" align="center">Tools, Configs and Testing</h3>
 
 - [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
 - [SASS & SCSS](https://github.com/Raigyo/sass-scss): Overview of the CSS preprocessor (variables,
@@ -118,7 +118,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Javascript & NodeJS</h3>
+<h3 style="color:2ea2e9;" align="center">Javascript & NodeJS</h3>
 
 - [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 - [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
@@ -138,7 +138,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">React / React Native</h3>
+<h3 style="color:2ea2e9;" align="center">React / React Native</h3>
 
 - [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 - [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me): Medias sharing plateform using strongly typed Next.js (using Typescript), MongoDB, Apollo Client and Sever (GraphQL).
@@ -167,7 +167,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Angular 11</h3>
+<h3 style="color:2ea2e9;" align="center">Angular 11</h3>
 
 - [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
@@ -180,7 +180,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Vue 2 / 3</h3>
+<h3 style="color:2ea2e9;" align="center">Vue 2 / 3</h3>
 
 - [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
@@ -195,7 +195,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Svelte</h3>
+<h3 style="color:2ea2e9;" align="center">Svelte</h3>
 
 - [Mini-blog](https://github.com/Raigyo/sapper-strapi-blog-static): A Static Blog With Sapper And Strapi.
 - [Expense calculation application](https://github.com/Raigyo/svelte-sapper-spending):
@@ -211,7 +211,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
+<h3 style="color:2ea2e9;" align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
 
 - [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
 - [Drupal: Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
@@ -229,7 +229,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
+<h3 style="color:2ea2e9;" align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
 - [Three.js, TypeScript and SocketIO](https://github.com/Raigyo/three-js-ball-game): Multiplayers Ball game.
@@ -252,7 +252,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9" align="center">Becode group works</h3>
+<h3 style="color:2ea2e9;" align="center">Becode group works</h3>
 
 - [Workshop React Native](https://github.com/Raigyo/workshop-react-native): Workshop given
   with Lara Loicq to introduce **React Native** with **Expo**.
