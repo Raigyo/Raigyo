@@ -24,11 +24,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       6 hrs 17 mins   ███████████████████░░░░░░   75.92 % 
-JavaScript   1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Markdown     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -48,7 +43,29 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 
 <h2 align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
-<h3 align="center">HTML & CSS</h3>
+<h3 align="center" id="summary">SUMMARY</h3>
+
+1. <a href="html">HTML & CSS</a>
+
+2. <a href="tools">Tools, Configs and Testing</a>
+
+3. <a href="js">Javascript & NodeJS</a>
+
+4. <a href="react">React / React Native</a>
+
+5. <a href="angular">Angular</a>
+
+6. <a href="vue">Vue 2 / 3</a>
+
+7. <a href="svelte">Svelte</a>
+
+8. <a href="php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a>
+
+9. <a href="3d">WebGL / Unity 3D / C# / Virtual Reality</a>
+
+10. <a href="becode">Becode group works</a>
+
+<h3 align="center" id="html">HTML & CSS</h3>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
@@ -67,8 +84,9 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
 
-<h3 align="center">Tools and Configs</h3>
+<h3 align="center" id="tools">Tools, Configs and Testing</h3>
 
+- [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
 - [SASS & SCSS](https://github.com/Raigyo/sass-scss): Overview of the CSS preprocessor (variables,
   nesting, mixins, inheritance...).
 - [Parcel, Module Bundler](https://github.com/Raigyo/parcel-bundler): How to configurate Parcel.
@@ -79,11 +97,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
 
-<h3 align="center">Testing</h3>
-
-- [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
-
-<h3 align="center">Javascript & NodeJS</h3>
+<h3 align="center" id="js">Javascript & NodeJS</h3>
 
 - [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 - [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
@@ -97,7 +111,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
-<h3 align="center">React</h3>
+<h3 align="center" id="react">React / React Native</h3>
 
 - [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 - [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me): Medias sharing plateform using strongly typed Next.js (using Typescript), MongoDB, Apollo Client and Sever (GraphQL).
@@ -108,29 +122,26 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [React Netflix](https://github.com/Raigyo/react-netflix-clone): Clone of Netflix using Redux,
   React Router DOM, Firebase, Paypal (Sand Box), React Player, _themoviedb_ API.
 - [Chatty](https://github.com/Raigyo/react-chat): Real-Time Chat App with React and Google Firebase - Connection with Email, Github, Facebook or Google.
+- [Native: Tinder UI Clone](https://github.com/Raigyo/react-native-swipe): In this application,
+  we can swipe between images that move or come back in their position like in Tinder app.
+- [Native: Facebook Login](https://github.com/Raigyo/react-native-fb-login): Log to an app with
+  a Facebook account.
 - [React 360 / React VR](https://github.com/Raigyo/react-vr-apps): Several applications
-  using the Facebook React VR/360 library.
+using the Facebook React VR/360 library.
+- [Native: My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile
+application using _themoviedb_ API to retrieve movies. Use Redux and ejection concept (Expo to CLI). Then migration on Google Play.
 - [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop by Matthieu Jasselette & Alexandre Bove.
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
 
-<h3 align="center">React Native</h3>
-
-- [Tinder UI Clone](https://github.com/Raigyo/react-native-swipe): In this application,
-  we can swipe between images that move or come back in their position like in Tinder app.
-- [Facebook Login](https://github.com/Raigyo/react-native-fb-login): Log to an app with
-  a Facebook account.
-- [My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile
-  application using _themoviedb_ API to retrieve movies. Use Redux and ejection concept (Expo to CLI). Then migration on Google Play.
-
-<h3 align="center">Angular</h3>
+<h3 align="center" id="angular">Angular 11</h3>
 
 - [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
-<h3 align="center">Vue</h3>
+<h3 align="center" id="vue">Vue 2 / 3</h3>
 
 - [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
@@ -139,7 +150,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
   drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
-<h3 align="center">Svelte</h3>
+<h3 align="center" id="svelte">Svelte</h3>
 
 - [Mini-blog](https://github.com/Raigyo/sapper-strapi-blog-static): A Static Blog With Sapper And Strapi.
 - [Expense calculation application](https://github.com/Raigyo/svelte-sapper-spending):
@@ -149,7 +160,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
 
-<h3 align="center">PHP Laravel / CMS: Drupal, Wordpress</h3>
+<h3 align="center" id="php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
 
 - [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
 - [Drupal: Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
@@ -161,7 +172,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
   of the Framework, featuring contact form to send an email and sending an image that will be
   hosted on the server
 
-<h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
+<h3 align="center" id="3d">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
 - [Three.js, TypeScript and SocketIO](https://github.com/Raigyo/three-js-ball-game): Multiplayers Ball game.
@@ -178,7 +189,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
-<h3 align="center">Becode group works</h3>
+<h3 align="center" id="becode">Becode group works</h3>
 
 - [Workshop React Native](https://github.com/Raigyo/workshop-react-native): Workshop given
   with Lara Loicq to introduce **React Native** with **Expo**.
