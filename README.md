@@ -24,7 +24,7 @@ involved in VR applications.</p>
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
 
-<h2 style="color:f00c7a;" align="center" id="status">STATUS</h3>
+<h2 style="color:f00c7a;" align="center" id="status">Status</h3>
 
 📊 Weekly development statistics:
 
@@ -48,7 +48,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h2 style="color:f00c7a;" align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
-<h3 style="color:2ea2e9;" align="center" id="summary">SUMMARY</h3>
+<h3 style="color:2ea2e9;" align="center" id="summary">Summary</h3>
 
 1. <a href="#html">HTML & CSS</a>
 
