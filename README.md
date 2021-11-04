@@ -92,6 +92,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p id="tools"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Tools, Configs and Testing</h3>
 
@@ -108,6 +109,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p id="js"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Javascript & NodeJS</h3>
 
@@ -125,6 +127,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p id="react"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">React / React Native</h3>
 
@@ -151,6 +154,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="angular"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Angular 11</h3>
 
@@ -161,6 +165,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="vue"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Vue 2 / 3</h3>
 
@@ -173,6 +178,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="svelte"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Svelte</h3>
 
@@ -186,6 +192,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="php"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
 
@@ -201,6 +208,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="3d"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
@@ -221,6 +229,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <p id="becode"></p>
 
+<p>&nbsp;</p>
 
 <h3 align="center">Becode group works</h3>
 
