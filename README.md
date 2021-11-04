@@ -67,7 +67,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 10. <a href="#becode">Becode group works</a>
 
-<h3 align="center" id="html">HTML & CSS</h3>
+<div id="html"></div>
+
+<h3 align="center">HTML & CSS</h3>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
@@ -86,7 +88,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
 
-<h3 align="center" id="tools">Tools, Configs and Testing</h3>
+<div id="tools"></div>
+
+<h3 align="center">Tools, Configs and Testing</h3>
 
 - [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
 - [SASS & SCSS](https://github.com/Raigyo/sass-scss): Overview of the CSS preprocessor (variables,
@@ -99,7 +103,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
 
-<h3 align="center" id="js">Javascript & NodeJS</h3>
+<div id="js"></div>
+
+<h3 align="center">Javascript & NodeJS</h3>
 
 - [Canvas animations](https://github.com/Raigyo/canvas-javascript-animation): Animations using Canvas and Javascript.
 - [Progressive web app](https://github.com/Raigyo/progressive-web-app): Progressive Web Apps: Service workers, Manifest, Cache, Notification Push, Background sync...
@@ -113,7 +119,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
-<h3 align="center" id="react">React / React Native</h3>
+<div id="react"></div>
+
+<h3 align="center">React / React Native</h3>
 
 - [React and Redux: fundamental and advanced](https://github.com/Raigyo/redux-new-york-time): Application displaying articles from New-York Times using Redux, Hooks and Context API.
 - [Next JS - Full stack web application with Next.js, TypeScript and GraphQL](https://github.com/Raigyo/next-js-stream-me): Medias sharing plateform using strongly typed Next.js (using Typescript), MongoDB, Apollo Client and Sever (GraphQL).
@@ -136,14 +144,18 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
 
-<h3 align="center" id="angular">Angular 11</h3>
+<div id="angular"></div>
+
+<h3 align="center">Angular 11</h3>
 
 - [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
-<h3 align="center" id="vue">Vue 2 / 3</h3>
+<div id="vue"></div>
+
+<h3 align="center">Vue 2 / 3</h3>
 
 - [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
@@ -152,7 +164,9 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
-<h3 align="center" id="svelte">Svelte</h3>
+<div id="svelte"></div>
+
+<h3 align="center">Svelte</h3>
 
 - [Mini-blog](https://github.com/Raigyo/sapper-strapi-blog-static): A Static Blog With Sapper And Strapi.
 - [Expense calculation application](https://github.com/Raigyo/svelte-sapper-spending):
@@ -162,19 +176,23 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
 
-<h3 align="center" id="php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
+<div id="php"></div>
+
+<h3 align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
 
 - [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
 - [Drupal: Bar Cat](https://github.com/Raigyo/drupal-bar-cat): A blog made with Drupal 9.
 - [Wordpress: Foo Dog](https://github.com/Raigyo/wordpress-foo-dog) (Becode): A blog made with Wordpress
   from scratch. All the features were developed in blank theme.
 - [API with Laravel](https://github.com/Raigyo/laravel-api) (Becode): CRUD using Tinker,
-  Unit testing, Web interface with CRUD
+  Unit testing, Web interface with CRUD.
 - [Basic configuration](https://github.com/Raigyo/laravel-basics) (Becode): installation
   of the Framework, featuring contact form to send an email and sending an image that will be
-  hosted on the server
+  hosted on the server.
 
-<h3 align="center" id="3d">WebGL / Unity 3D / C# / Virtual Reality</h3>
+<div id="3d"></div>
+
+<h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
 - [Three.js and TypeScript](https://github.com/Raigyo/threejs-typescript): Threejs, TypeScript and NodeJS to create interactive 3D content on the web.
 - [Three.js, TypeScript and SocketIO](https://github.com/Raigyo/three-js-ball-game): Multiplayers Ball game.
@@ -191,7 +209,9 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
-<h3 align="center" id="becode">Becode group works</h3>
+<div id="becode"></div>
+
+<h3 align="center">Becode group works</h3>
 
 - [Workshop React Native](https://github.com/Raigyo/workshop-react-native): Workshop given
   with Lara Loicq to introduce **React Native** with **Expo**.
