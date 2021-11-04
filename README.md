@@ -33,6 +33,24 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
 
+<table>
+  <tr>
+    <th>🔭 I’m currently working on:</th>
+    <th>🚀 Latest development(s):</th>
+    <th>⚡ Still in WIP</th>
+  </tr>
+  <tr>
+    <td>[Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.</td>
+    <td>[Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.</td>
+    <td>[NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course).</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>[Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.</td>
+    <td></td>
+  </tr>
+</table>
+
 🔭 I’m currently working on:
 
 - [Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.
