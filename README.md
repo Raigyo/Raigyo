@@ -70,11 +70,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 10. <a href="#becode">Becode group works</a>
 
-| 1. <a href="#html">HTML & CSS</a> | 6. <a href="#vue">Vue 2 / 3</a> | 
+
+| -------------------------------------------------- | -------------------------------------------------- |
+| 1. <a href="#html">HTML & CSS</a>                  | 6. <a href="#vue">Vue 2 / 3</a> | 
 | 2. <a href="#tools">Tools, Configs and Testing</a> | 7. <a href="#svelte">Svelte</a> |
-| 3. <a href="#js">Javascript & NodeJS</a>| 8. <a href="#php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a> |
-| 4. <a href="#react">React / React Native</a>   | 9. <a href="#3d">WebGL / Unity 3D / C# / Virtual Reality</a> |
-| 5. <a href="#angular">Angular</a>   | 10. <a href="#becode">Becode group works</a> |
+| 3. <a href="#js">Javascript & NodeJS</a>           | 8. <a href="#php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a> |
+| 4. <a href="#react">React / React Native</a>       | 9. <a href="#3d">WebGL / Unity 3D / C# / Virtual Reality</a> |
+| 5. <a href="#angular">Angular</a>                  | 10. <a href="#becode">Becode group works</a> |
 
 <p id="html"></p>
 
