@@ -40,29 +40,17 @@ or check my Github projects below, with direct links to the repositories.</p>
     <th>⚡ Still in WIP</th>
   </tr>
   <tr>
-    <td>[Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.</td>
-    <td>[Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.</td>
-    <td>[NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course).</td>
+    <td><a src="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
+    <td><a src="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Monitoring application.</td>
+    <td><a src="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td>[Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.</td>
+    <td><a src="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
     <td></td>
   </tr>
 </table>
 
-🔭 I’m currently working on:
-
-- [Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Vue with Vuetify, a Material Design Framework.
-
-🚀 Latest development(s):
-
-- [Symfony 5](https://github.com/Raigyo/symfony-monitoring): Monitoring application.
-- [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
-
-⚡ Still in WIP
-
-- [NgRx (with NgRx Data) - The Complete Guide](https://github.com/Raigyo/ngrx-course).
 
 <h2 style="color:f00c7a;" align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
