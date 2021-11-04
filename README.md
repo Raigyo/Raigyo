@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-<a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a>
+<a href="https://raigyo-dev.be/" target="_blank"><img height="40" src="img_readme/icon-web.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
-  <img height="32" src="img_readme/icon-linked-in.png">
+  <img height="40" src="img_readme/icon-linked-in.png">
 </a>
 </p>
 
