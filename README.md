@@ -68,6 +68,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 10. <a href="#becode">Becode group works</a>
 
 <div id="html"></div>
+<p></p>
 
 
 <h3 align="center">HTML & CSS</h3>
