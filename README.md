@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-<a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a>
-<a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
+<div class="padding: 15px"><a href="https://raigyo-dev.be/" target="_blank"><img height="30" src="img_readme/icon-web.png"></a></div>
+<div class="padding: 15px"><a href="https://www.linkedin.com/in/vincent-chilot/"  target="_blank">
   <img height="32" src="img_readme/icon-linked-in.png">
-</a>
+</a></div>
 </p>
 
 <h2 align="center">Welcome to my Github!</h2>
