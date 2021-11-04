@@ -67,8 +67,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 10. <a href="#becode">Becode group works</a>
 
+<p id="html"></p>
 
-<div align="center" id="html"><h3 >HTML & CSS</h3></div>
+<p>&nbsp;</p>
+
+<h3 align="center">HTML & CSS</h3>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
