@@ -47,25 +47,25 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h3 align="center" id="summary">SUMMARY</h3>
 
-1. <a href="html">HTML & CSS</a>
+1. <a href="#html">HTML & CSS</a>
 
-2. <a href="tools">Tools, Configs and Testing</a>
+2. <a href="#tools">Tools, Configs and Testing</a>
 
-3. <a href="js">Javascript & NodeJS</a>
+3. <a href="#js">Javascript & NodeJS</a>
 
-4. <a href="react">React / React Native</a>
+4. <a href="#react">React / React Native</a>
 
-5. <a href="angular">Angular</a>
+5. <a href="#angular">Angular</a>
 
-6. <a href="vue">Vue 2 / 3</a>
+6. <a href="#vue">Vue 2 / 3</a>
 
-7. <a href="svelte">Svelte</a>
+7. <a href="#svelte">Svelte</a>
 
-8. <a href="php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a>
+8. <a href="#php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a>
 
-9. <a href="3d">WebGL / Unity 3D / C# / Virtual Reality</a>
+9. <a href="#3d">WebGL / Unity 3D / C# / Virtual Reality</a>
 
-10. <a href="becode">Becode group works</a>
+10. <a href="#becode">Becode group works</a>
 
 <h3 align="center" id="html">HTML & CSS</h3>
 
