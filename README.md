@@ -41,7 +41,7 @@ or check my Github projects below, with direct links to the repositories.</p>
   </tr>
   <tr>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Monitoring application.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Symfony application to make monitoring of websites and display their http status.</td>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td>
   </tr>
   <tr>
