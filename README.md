@@ -33,20 +33,20 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
 
-<table>
+<table align="center">
   <tr>
     <th>🔭 I’m currently working on:</th>
     <th>🚀 Latest development(s):</th>
     <th>⚡ Still in WIP</th>
   </tr>
   <tr>
-    <td><a src="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
-    <td><a src="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Monitoring application.</td>
-    <td><a src="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td>
+    <td><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
+    <td><a href="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Monitoring application.</td>
+    <td><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td><a src="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
+    <td><a href="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
     <td></td>
   </tr>
 </table>
