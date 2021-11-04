@@ -47,7 +47,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h3 align="center" id="summary">SUMMARY</h3>
 
-1. <a href="#html">HTML & CSS</a>
+1. HTML & CSS(#html)
 
 2. <a href="#tools">Tools, Configs and Testing</a>
 
@@ -68,7 +68,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 10. <a href="#becode">Becode group works</a>
 
 <div id="html"></div>
-<p></p>
 
 
 <h3 align="center">HTML & CSS</h3>
