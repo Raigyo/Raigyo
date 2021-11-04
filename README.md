@@ -1,4 +1,4 @@
-<body style="background-color: black; color: white">
+<div style="background-color: black; color: white">
 <div id="top"></div>
 
 <h1 align="center">
@@ -323,4 +323,4 @@ Useful Links:
 - [See how to add Emoticon](https://gist.github.com/rxaviers/7360908)
 -->
 
-</body>
+</div>
