@@ -97,7 +97,7 @@ Markdown     25 mins         █▒░░░░░░░░░░░░░░░
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
 
-<p align="right"><a href="#top"><img width="60" height="38" src="img_readme/" alt="Top of the page"/></a></p>
+<p align="right"><a href="#top"><img width="60" height="38" src="img_readme/top-2.png" alt="Top of the page"/></a></p>
 
 <p id="tools"></p>
 
