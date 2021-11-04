@@ -67,7 +67,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 10. <a href="#becode">Becode group works</a>
 
-<div id="html" class="padding-bottom: 5px"></div>
+<div id="html" class="margin-bottom: 25px"></div>
 
 
 <h3 align="center">HTML & CSS</h3>
