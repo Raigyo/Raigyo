@@ -47,7 +47,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h3 align="center" id="summary">SUMMARY</h3>
 
-1. HTML & CSS(#html)
+1. [HTML & CSS](#html)
 
 2. <a href="#tools">Tools, Configs and Testing</a>
 
