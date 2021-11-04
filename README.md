@@ -111,6 +111,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [Webpack for React (Hooks)](https://github.com/Raigyo/webpack-react-hot-reload-hooks):
   React with hot reload using hooks.
 
+<p align="right"><a href="#top">Top of the page</a></p>
+
 <p id="js"></p>
 
 <p>&nbsp;</p>
@@ -128,6 +130,8 @@ or check my Github projects below, with direct links to the repositories.</p>
   using Mongoose ORM / MongoDB Atlas.
 - [Javascript for the web](https://github.com/Raigyo/becode-js-for-the-web) (Becode): Exercises
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="react"></p>
 
@@ -156,6 +160,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
 
+<p align="right"><a href="#top">Top of the page</a></p>
+
 <p id="angular"></p>
 
 <p>&nbsp;</p>
@@ -166,6 +172,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="vue"></p>
 
@@ -180,6 +188,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   drop using VueX.
 - [Contact Manager](https://github.com/Raigyo/vue-contact-manager): Contact cards app using Google Cloud Firestore to store datas.
 
+<p align="right"><a href="#top">Top of the page</a></p>
+
 <p id="svelte"></p>
 
 <p>&nbsp;</p>
@@ -193,6 +203,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   of Pokémons fetched from a Pokémon API.
 - [Svelte Overview](https://github.com/Raigyo/svelte-overview): Svelte main concepts: stores,
   reactive methods, components lifecycle...
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="php"></p>
 
@@ -209,6 +221,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Basic configuration](https://github.com/Raigyo/laravel-basics) (Becode): installation
   of the Framework, featuring contact form to send an email and sending an image that will be
   hosted on the server.
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="3d"></p>
 
@@ -230,6 +244,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   development - 'A Forest'.
 - [Babylon.js](https://github.com/Raigyo/fps-babylon-js): Online Multiplayer -First Personnal Shooter using SocketIO.
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="becode"></p>
 
@@ -261,6 +277,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=raigyo.raigyo"> -->
   <img src="https://img.shields.io/github/last-commit/Raigyo/Raigyo">
 </p>
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md`
