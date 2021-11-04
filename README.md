@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <h1 align="center">
     <img src="img_readme/logo.png">
 </h1>
@@ -89,6 +91,8 @@ or check my Github projects below, with direct links to the repositories.</p>
   Free Website Builder.
 - [Bootstrap](https://github.com/Raigyo/bootstrap-corporate) (Becode): Creation of a corporate
   website using Bootstrap.
+
+<p align="right"><a href="#top">Top of the page</a></p>
 
 <p id="tools"></p>
 
