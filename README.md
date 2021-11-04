@@ -50,47 +50,27 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <h3 style="color:2ea2e9;" align="center" id="summary">Summary</h3>
 
-1. <a href="#html">HTML & CSS</a>
-
-2. <a href="#tools">Tools, Configs and Testing</a>
-
-3. <a href="#js">Javascript & NodeJS</a>
-
-4. <a href="#react">React / React Native</a>
-
-5. <a href="#angular">Angular</a>
-
-6. <a href="#vue">Vue 2 / 3</a>
-
-7. <a href="#svelte">Svelte</a>
-
-8. <a href="#php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a>
-
-9. <a href="#3d">WebGL / Unity 3D / C# / Virtual Reality</a>
-
-10. <a href="#becode">Becode group works</a>
-
 <table>
 <tbody>
 	<tr>
 		<td>1. <a href="#html">HTML & CSS</a></td>
-		<td>2. <a href="#tools">Tools, Configs and Testing</a></td>
+		<td>6. <a href="#vue">Vue 2 / 3</a></td>
+	</tr>
+	<tr>
+		<td>2. <a href="#tools">Tools, Configs and Testing</a></a></td>
+		<td>7. <a href="#svelte">Svelte</a></td>
 	</tr>
 	<tr>
 		<td>3. <a href="#js">Javascript & NodeJS</a></td>
+		<td>8. <a href="#php">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</a></td>
+	</tr>
+	<tr>
 		<td>4. <a href="#react">React / React Native</a></td>
+		<td>9. <a href="#3d">WebGL / Unity 3D / C# / Virtual Reality</a></td>
 	</tr>
 	<tr>
-		<td>Custom Table Content</td>
-		<td>Column 4</td>
-	</tr>
-	<tr>
-		<td>Custom Table Content</td>
-		<td>Column 4</td>
-	</tr>
-	<tr>
-		<td>Custom Table Content</td>
-		<td>Column 4</td>
+		<td>5. <a href="#angular">Angular</a></td>
+		<td>10. <a href="#becode">Becode group works</a></td>
 	</tr>
 </tbody>
 </table>
