@@ -1,3 +1,4 @@
+<body style="background-color: black; color: white">
 <div id="top"></div>
 
 <h1 align="center">
@@ -321,3 +322,5 @@ Useful Links:
 - [Learn how to add GitHub Readme Stats on your readmes!](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 - [See how to add Emoticon](https://gist.github.com/rxaviers/7360908)
 -->
+
+</body>
