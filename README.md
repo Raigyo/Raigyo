@@ -69,6 +69,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <div id="html"></div>
 
+
 <h3 align="center">HTML & CSS</h3>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
@@ -90,6 +91,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <div id="tools"></div>
 
+
 <h3 align="center">Tools, Configs and Testing</h3>
 
 - [Behavior-driven development (BDD) - Node.js](https://github.com/Raigyo/node-unit-testing-mocha): Unit Testing using Mocha ☕️, Chai and SinonJS.
@@ -104,6 +106,7 @@ or check my Github projects below, with direct links to the repositories.</p>
   React with hot reload using hooks.
 
 <div id="js"></div>
+
 
 <h3 align="center">Javascript & NodeJS</h3>
 
@@ -120,6 +123,7 @@ or check my Github projects below, with direct links to the repositories.</p>
   about javascript for the web: use of Parcel.JS and strict mode, forms, API requests...
 
 <div id="react"></div>
+
 
 <h3 align="center">React / React Native</h3>
 
@@ -146,6 +150,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <div id="angular"></div>
 
+
 <h3 align="center">Angular 11</h3>
 
 - [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
@@ -154,6 +159,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   the basics concepts of Angular and RxJS: materials, reactive forms, observables...
 
 <div id="vue"></div>
+
 
 <h3 align="center">Vue 2 / 3</h3>
 
@@ -166,6 +172,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <div id="svelte"></div>
 
+
 <h3 align="center">Svelte</h3>
 
 - [Mini-blog](https://github.com/Raigyo/sapper-strapi-blog-static): A Static Blog With Sapper And Strapi.
@@ -177,6 +184,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   reactive methods, components lifecycle...
 
 <div id="php"></div>
+
 
 <h3 align="center">PHP (Laravel / Symfony) / CMS (Wordpress / Drupal)</h3>
 
@@ -191,6 +199,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   hosted on the server.
 
 <div id="3d"></div>
+
 
 <h3 align="center">WebGL / Unity 3D / C# / Virtual Reality</h3>
 
@@ -210,6 +219,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Terminal Hacker](https://github.com/Raigyo/unity-terminal-hacker): WebGL quiz made with Unity 3D.
 
 <div id="becode"></div>
+
 
 <h3 align="center">Becode group works</h3>
 
