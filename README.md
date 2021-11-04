@@ -268,6 +268,8 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 - [Bad Ideas Kanban](https://github.com/Raigyo/jepsen-js-web-majopovi): **Javascript** CRUD
   and Api request. A group exercice for getting better at working together with **Git**.
 
+<p align="right"><a href="#top">Top of the page</a></p>
+
 <p align="center">
   <img src="img_readme/logo-majopovi.png" height="120">
 </p>
@@ -278,7 +280,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   <img src="https://img.shields.io/github/last-commit/Raigyo/Raigyo">
 </p>
 
-<p align="right"><a href="#top">Top of the page</a></p>
+
 
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md`
