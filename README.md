@@ -29,13 +29,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 36 mins   ██████████████████▒░░░░░░   73.14 % 
-Markdown     30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Vue.js       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-```
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -44,17 +37,17 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
   <tr>
     <th>🔭 I’m currently working on:</th>
     <th>🚀 Latest development(s):</th>
-    <th>⚡ Still in WIP</th>
+<!--     <th>⚡ Still in WIP</th> -->
   </tr>
   <tr>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Symfony application to make monitoring of websites and display their http status.</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td>
+<!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
-    <td style="vertical-align:top"></td>
+<!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
 
