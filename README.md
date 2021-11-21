@@ -30,11 +30,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 25 mins   ███████████░░░░░░░░░░░░░░   43.41 % 
-TypeScript   2 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   32.95 % 
-HTML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Vue.js       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JavaScript   3 hrs 23 mins   ███████████████▒░░░░░░░░░   61.59 % 
+TypeScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+HTML         51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Vue.js       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 <!--END_SECTION:waka-->
 
