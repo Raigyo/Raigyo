@@ -30,7 +30,11 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-
+Vue.js       2 hrs 15 mins   ██████████████████░░░░░░░   72.60 % 
+JavaScript   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Markdown     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 
