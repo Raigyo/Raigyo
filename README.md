@@ -29,6 +29,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       3 hrs 54 mins   ███████████████▓░░░░░░░░░   62.71 % 
+JavaScript   1 hr 42 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Markdown     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
