@@ -29,13 +29,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       3 hrs 54 mins   ███████████████▓░░░░░░░░░   62.71 % 
-JavaScript   1 hr 42 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Markdown     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -47,17 +40,16 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 <!--     <th>⚡ Still in WIP</th> -->
   </tr>
   <tr>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/symfony-monitoring">Symfony 5</a>: Symfony application to make monitoring of websites and display their http status.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/javascript-jasmine">Behavior-driven development (BDD): Javascript with Jasmine</td>
+    <td style="vertical-align:top"></td>
 <!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
-    <td style="vertical-align:top"></td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
-
 
 <h2 style="color:f00c7a;" align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
@@ -87,7 +79,6 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 	</tr>
 </tbody>
 </table>
-
 
 <p id="html"></p>
 
@@ -173,9 +164,9 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 - [Native: Facebook Login](https://github.com/Raigyo/react-native-fb-login): Log to an app with
   a Facebook account.
 - [React 360 / React VR](https://github.com/Raigyo/react-vr-apps): Several applications
-using the Facebook React VR/360 library.
+  using the Facebook React VR/360 library.
 - [Native: My Video Library](https://github.com/Raigyo/video-library) (Becode): Video library mobile
-application using _themoviedb_ API to retrieve movies. Use Redux and ejection concept (Expo to CLI). Then migration on Google Play.
+  application using _themoviedb_ API to retrieve movies. Use Redux and ejection concept (Expo to CLI). Then migration on Google Play.
 - [React hooks](https://github.com/Raigyo/React-Hooks-Workshop) (Becode): Workshop by Matthieu Jasselette & Alexandre Bove.
 - [Character Manager](https://github.com/Raigyo/react-character-manager) (Becode):
   Characters manager with ReactJS (CRUD with API).
@@ -201,6 +192,7 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
 
 <h3 style="color:2ea2e9;" align="center">Vue 2 / 3</h3>
 
+- [Vue + Vuetify](https://github.com/Raigyo/vue-vuetify): Todo app using Vue, Vuetify and VueX.
 - [Vue3 and composition API](https://github.com/Raigyo/progressor-compo-api): Tasks manager with CRUD.
 - [Book Shop application](https://github.com/Raigyo/vuex-shop): Online shop using VueX,
   Axios and JSon Server.
@@ -300,8 +292,6 @@ application using _themoviedb_ API to retrieve movies. Use Redux and ejection co
   <img src="https://img.shields.io/github/last-commit/Raigyo/Raigyo">
 </p>
 
-
-
 <!--
 **Raigyo/Raigyo** is a ✨ _special_ ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
@@ -335,4 +325,3 @@ Useful Links:
 - [Learn how to add GitHub Readme Stats on your readmes!](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 - [See how to add Emoticon](https://gist.github.com/rxaviers/7360908)
 -->
-
