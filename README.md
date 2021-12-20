@@ -30,7 +30,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-SCSS   2 mins          █████████████████████▓░░░   86.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
