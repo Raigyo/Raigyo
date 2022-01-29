@@ -30,7 +30,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP        55 mins         █████████████▓░░░░░░░░░░░   54.23 % 
+Markdown   46 mins         ███████████▒░░░░░░░░░░░░░   45.24 % 
 ```
 <!--END_SECTION:waka-->
 
