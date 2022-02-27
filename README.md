@@ -29,11 +29,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   3 hrs 52 mins   ███████████████████▓░░░░░   78.08 % 
-PHP        1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
-SQL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Markdown   3 hrs 52 mins   ███████████████████▓░░░░░   78.08 %
+PHP        1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+SQL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
