@@ -31,10 +31,9 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-PHP        6 hrs 33 mins   █████████████▒░░░░░░░░░░░   52.94 %
-Markdown   3 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-CSS        1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-SQL        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+PHP        8 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.92 %
+CSS        3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+Markdown   2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
 ```
 
 <!--END_SECTION:waka-->
