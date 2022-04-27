@@ -41,12 +41,13 @@ or check my Github projects below, with direct links to the repositories.</p>
   </tr>
   <tr>
     <td style="vertical-align:top"><a href="https://github.com/Raigyo/javascript-jasmine">Behavior-driven development (BDD)</a>: Javascript with Jasmine</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS:</a>  Decorators, Pipes, Interceptors and Guards.</td>
+
 <!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS:</a>  Decorators, Pipes, Interceptors and Guards.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
