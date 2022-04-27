@@ -29,16 +29,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-
-```text
-Bash             3 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   36.80 %
-Markdown         1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-PHP              1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-JavaScript       1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-HTML             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -56,7 +46,7 @@ JSON             24 mins         █░░░░░░░░░░░░░░�
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/progressor-compo-api">Vue3 and composition API</a>: Tasks manager with CRUD.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS - overview: Decorators, Pipes, Interceptors and Guards.</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
@@ -279,9 +269,9 @@ JSON             24 mins         █░░░░░░░░░░░░░░�
   with Lara Loicq to introduce **React Native** with **Expo**.
 - [Super Socket Fighter](https://github.com/Raigyo/SuperSocketFighter): Videogame online
   using **React** as client-side and **Node.JS/Websockets/Socket IO** as server-side.
-- [Event Manager](https://github.com/Raigyo/group-project-react-laravel): Event manager
+- [Event Manager - Event Dab](https://github.com/Raigyo/group-project-react-laravel-v2): Event manager
   using **React** as front-end and **Laravel** that provides the API.
-- [Event Manager (fork)](https://github.com/Raigyo/group-project-react-laravel-fork):
+- [Event Manager (fork) - Do Nut Events](https://github.com/Raigyo/group-project-react-laravel-fork-v2):
   Same application using **React** and **Laravel** but forked from the work of another group.
   Bugs had to be corrected and new features had to be implemented.
 - [Blog PHP](https://github.com/Raigyo/becode-php-blog): Client server application using **PHP**
