@@ -46,7 +46,7 @@ or check my Github projects below, with direct links to the repositories.</p>
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS - overview: Decorators, Pipes, Interceptors and Guards.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS - overview: Decorators, Pipes, Interceptors and Guards.</a></td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
