@@ -31,12 +31,12 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-HTML             2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-Markdown         1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-JSON             1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-PHP              55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-TypeScript       46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-SCSS             35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+HTML         1 hr 55 mins    ███████████▒░░░░░░░░░░░░░   45.58 %
+TypeScript   46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+JSON         43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+JavaScript   25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+SCSS         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
