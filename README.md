@@ -31,7 +31,12 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   3 hrs 12 mins   ██████████████████████░░░   87.34 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
