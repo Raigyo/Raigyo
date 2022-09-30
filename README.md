@@ -29,13 +29,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-
-```text
-CSS          12 hrs 43 mins  ███████████████████▓░░░░░   78.91 %
-HTML         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -47,14 +40,14 @@ JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░
 <!--     <th>⚡ Still in WIP</th> -->
   </tr>
   <tr>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/cms-nestjs">Nest JS & Angular</a>: CMS.</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/nest-js-todo">NestJS:</a>  Decorators, Pipes, Interceptors and Guards.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top"><a href="#0"></a> Design & Integration: La Fabrique</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/webdesign-integration-energem#design--integration-%C3%A9nergem-revamping">Design & Integration</a>: Énergem (revamping).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/vue-vuetify">Vue + Vuetify</a>: Vue with Vuetify, a Material Design Framework.</td>
+    <td style="vertical-align:top"><a href="https://github.com/Raigyo/cms-nestjs">Nest JS & Angular</a>: CMS..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
@@ -96,6 +89,7 @@ JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
+- [Énergem (revamping)](https://github.com/Raigyo/webdesign-integration-energem#design--integration-%C3%A9nergem-revamping): Design & Integration using Figma, Illustrator, HTML, CSS and JS.
 - [Boostrap CSS Framework ](https://github.com/Raigyo/bootstrap-overview): Overview and showcase "Easy Job".
 - [Bulma CSS Framework](https://github.com/Raigyo/bulma-overview): Overview and showcase websites "Site Immo" and "Portfolio".
 - [TailwindCSS](https://github.com/Raigyo/tailwindcss-overview): Overview and showcase website "SEOTOOL".
