@@ -29,6 +29,13 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          12 hrs 43 mins  ███████████████████▓░░░░░   78.91 %
+HTML         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
