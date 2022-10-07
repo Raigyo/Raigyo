@@ -31,10 +31,10 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-CSS          13 hrs 3 mins   ██████████████▓░░░░░░░░░░   59.28 %
-HTML         5 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Markdown     2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+CSS          10 hrs 8 mins   ██████████████▓░░░░░░░░░░   59.05 %
+HTML         4 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Markdown     2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+JavaScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
