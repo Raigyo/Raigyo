@@ -89,7 +89,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 - [My portfolio](https://github.com/Raigyo/summary-portfolio): It uses static HTML, Flex and
   media queries.
-  - [La Fabrique](https://github.com/Raigyo/webdesign-integration-la-fabrique): Design, Branding & Integration using Figma, Illustrator, HTML, CSS and JS.
+- [La Fabrique](https://github.com/Raigyo/webdesign-integration-la-fabrique): Branding, Design & Integration using Figma, Illustrator, HTML, CSS and JS.
 - [Énergem (revamping)](https://github.com/Raigyo/webdesign-integration-energem#design--integration-%C3%A9nergem-revamping): Design & Integration using Figma, Illustrator, HTML, CSS and JS.
 - [Boostrap CSS Framework ](https://github.com/Raigyo/bootstrap-overview): Overview and showcase "Easy Job".
 - [Bulma CSS Framework](https://github.com/Raigyo/bulma-overview): Overview and showcase websites "Site Immo" and "Portfolio".
