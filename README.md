@@ -29,15 +29,6 @@ or check my Github projects below, with direct links to the repositories.</p>
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-
-```text
-CSS          7 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.31 %
-HTML         3 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-JavaScript   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -49,14 +40,14 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--     <th>⚡ Still in WIP</th> -->
   </tr>
   <tr>
-    <td style="vertical-align:top"><a href="#0"></a> Design & Integration: La Fabrique</td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/webdesign-integration-energem#design--integration-%C3%A9nergem-revamping">Design & Integration</a>: Énergem (revamping).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top"></td>
+    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-la-fabrique">La Fabrique</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top"><a href="https://github.com/Raigyo/cms-nestjs">Nest JS & Angular</a>: CMS..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-energem#design--integration-%C3%A9nergem-revamping">Énergem (revamping)</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
