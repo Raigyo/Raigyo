@@ -31,7 +31,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON   14 mins         ███████████████████▓░░░░░   78.72 %
+HTML   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
 ```
 
 <!--END_SECTION:waka-->
