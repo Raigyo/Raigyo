@@ -31,7 +31,8 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML   8 mins          ████████████████▒░░░░░░░░   65.34 %
+CSS    4 mins          ████████▓░░░░░░░░░░░░░░░░   34.66 %
 ```
 
 <!--END_SECTION:waka-->
