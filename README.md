@@ -30,7 +30,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
