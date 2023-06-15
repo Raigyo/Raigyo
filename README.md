@@ -31,8 +31,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          ██████████████▒░░░░░░░░░░   56.70 %
-Other        0 secs          ██████████▓░░░░░░░░░░░░░░   43.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
