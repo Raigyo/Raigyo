@@ -55,7 +55,7 @@ or check my Github projects below, with direct links to the repositories.</p>
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-la-fabrique">La Fabrique</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top">Business Analyst: <a href="https://github.com/Raigyo/ba-labo-aero-club">La Aéro-club - Analyse fonctionnelle et cahier des charges d'un projet de SI pour un aéro-club</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
