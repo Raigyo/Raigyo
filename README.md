@@ -17,7 +17,7 @@
 <p align="center">Hi, I'm Vincent aka Raigyo. I'm a web developer.</p>
 <p align="center">I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
 <p align="center">I followed a boot camp training
-in web development at <a href="https://becode.org/">Becode</a> and a wed design initiation at <a href="https://siriushub.be/">Sirius School</a>.</p>
+in web development at <a href="https://becode.org/">Becode</a> and a web design training at <a href="https://siriushub.be/">Sirius School</a>.</p>
 <p align="center">I also develop in Unity since I made a traineeship in a company that was
 involved in VR applications.</p>
 <p align="center">And I have also given programming courses to trainees in php and javascript.<p>
