@@ -20,7 +20,8 @@
 in web development at <a href="https://becode.org/">Becode</a> and a wed design initiation at <a href="https://siriushub.be/">Sirius School</a>.</p>
 <p align="center">I also develop in Unity since I made a traineeship in a company that was
 involved in VR applications.</p>
-<p align="center">I recently took an ICT Business Analyst course at <a href="https://becode.org/">Technifutur</a> and obtained the Professional Scrum Product Owner (PSPO1) certification.</p>
+<p align="center">And I have also given programming courses to trainees in php and javascript.<p>
+<p align="center">I recently took an ICT Business Analyst course at <a href="https://technifutur.be">Technifutur</a> and obtained the Professional Scrum Product Owner (PSPO1) certification.</p>
 <p align="center">To know more about my work and abilities, please visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
