@@ -63,7 +63,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 <h2 style="color:f00c7a;" align="center">Repositories: Business Analyst</h2>
 
 - [ShowCaseMe](https://github.com/Raigyo/ba-labo-showcase-me): Analyse fonctionnelle et cahier des charges d'un projet de réseau social de partage de portfolios (Labo final Technifutur).
-- [Aéro-club](https://github.com/Raigyo/ba-labo-aero-club):Analyse fonctionnelle et cahier des charges d'un projet de SI pour un aéro-club (Labo Technifutur).
+- [Aéro-club](https://github.com/Raigyo/ba-labo-aero-club): Analyse fonctionnelle et cahier des charges d'un projet de SI pour un aéro-club (Labo Technifutur).
 
 <h2 style="color:f00c7a;" align="center">Repositories: Developments</h2>
 <h3 style="color:f00c7a;" align="center">Personnal trainings and projects, Becode & Sirius trainings</h3>
