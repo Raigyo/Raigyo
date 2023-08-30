@@ -65,7 +65,7 @@ or check my Github projects below, with direct links to the repositories.</p>
 - [ShowCaseMe](https://github.com/Raigyo/ba-labo-showcase-me): Analyse fonctionnelle et cahier des charges d'un projet de réseau social de partage de portfolios (Labo final Technifutur).
 
 <h2 style="color:f00c7a;" align="center">Repositories: Developments</h2>
-<h3 style="color:f00c7a;" align="center">personnal trainings and projects, Becode training</h3>
+<h3 style="color:f00c7a;" align="center">Personnal trainings and projects, Becode & Sirius trainings</h3>
 
 <h3 style="color:2ea2e9;" align="center" id="summary">Summary</h3>
 
