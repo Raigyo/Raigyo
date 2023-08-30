@@ -26,9 +26,9 @@ involved in VR applications.</p>
 or check my Github projects below, with direct links to the repositories.</p>
 
 <p align="center">
-  <img height="40" src="img_readme/scrum-po.png">
+  <img height="80" src="img_readme/scrum-po.png">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="img_readme/nse2.png">
+  <img height="80" src="img_readme/nse2.png">
 </p>
 
 <h2 style="color:f00c7a;" align="center" id="status">Status</h3>
