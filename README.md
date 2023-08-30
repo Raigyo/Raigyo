@@ -16,24 +16,26 @@
 
 <p align="center">Hi, I'm Vincent aka Raigyo. I'm a web developer.</p>
 <p align="center">I'm in the  development since 2001 and I worked for more than 16 years in a web agency.
-<p align="center">Recently I followed a boot camp training
+<p align="center">I followed a boot camp training
 in web development at <a href="https://becode.org/">Becode</a> and a wed design initiation at <a href="https://siriushub.be/">Sirius School</a>.</p>
 <p align="center">I also develop in Unity since I made a traineeship in a company that was
 involved in VR applications.</p>
+<p align="center">I recently took an ICT Business Analyst course at <a href="https://becode.org/">Technifutur</a> and obtained the Professional Scrum Product Owner (PSPO1) certification.</p>
 <p align="center">To know more about my work and abilities, please visit my
 <a href="https://raigyo-dev.be/" target="_blank">online portfolio</a>
 or check my Github projects below, with direct links to the repositories.</p>
+
+<p align="center">
+  <img height="40" src="img_readme/scrum-po.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="img_readme/nse2.png">
+</p>
 
 <h2 style="color:f00c7a;" align="center" id="status">Status</h3>
 
 📊 Weekly development statistics:
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <!-- https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
@@ -46,16 +48,20 @@ No activity tracked
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-la-fabrique">La Fabrique</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top">Business Analyst: <a href="https://github.com/Raigyo/ba-labo-showcase-me">ShowCaseMe - Analyse fonctionnelle et cahier des charges d'un projet de réseau social de partage de portfolios</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
 <!--     <td style="vertical-align:top"><a href="https://github.com/Raigyo/ngrx-course">NgRx (with NgRx Data) - The Complete Guide</a>.</td> -->
   </tr>
   <tr>
     <td style="vertical-align:top"></td>
-    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-energem">Énergem (revamping)</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="vertical-align:top">Design & Integration: <a href="https://github.com/Raigyo/webdesign-integration-la-fabrique">La Fabrique</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <!--     <td style="vertical-align:top"></td> -->
   </tr>
 </table>
+
+<h2 style="color:f00c7a;" align="center">Repositories: Business Analyst</h2>
+
+- [ShowCaseMe](https://github.com/Raigyo/ba-labo-showcase-me): Analyse fonctionnelle et cahier des charges d'un projet de réseau social de partage de portfolios (Labo final Technifutur).
 
 <h2 style="color:f00c7a;" align="center">Repositories: personnal trainings and projects, Becode training</h2>
 
