@@ -194,8 +194,10 @@ or check my Github projects below, with direct links to the repositories.</p>
 
 <p>&nbsp;</p>
 
-<h3 style="color:2ea2e9;" align="center">Angular 9 => 13</h3>
+<h3 style="color:2ea2e9;" align="center">Angular</h3>
 
+- [Nest JS & Angular](https://github.com/Raigyo/nest-js-todo): CMS.
+- [Nest JS: todo](https://github.com/Raigyo/nest-js-todo): Nest overview: CRUD, Pipes, Interceptors and Guards.
 - [Pokémons app](https://github.com/Raigyo/angular-pokemons): Angular application of Pokémons from an empty folder, with Angular and TypeScript.
 - [MEAN Stack - Dev Blog](https://github.com/Raigyo/mean-stack-whisky): Blog for developers using Node and Express, MongoDB and Mongoose as ODM, and Angular on Client side (MEAN Stack).
 - [Restaurant Website](https://github.com/Raigyo/angular-restaurangular): This application covers
